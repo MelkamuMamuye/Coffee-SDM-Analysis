@@ -1,0 +1,2378 @@
+FID,X,Y,District,Country,Species
+0,35.5428076,8.1791261,Ale,Ethiopia,Coffeearabica
+1,35.5420763,8.1803492,Ale,Ethiopia,Coffeearabica
+2,35.5383057,8.1825815,Ale,Ethiopia,Coffeearabica
+3,35.5368705,8.1846657,Ale,Ethiopia,Coffeearabica
+4,35.5356306,8.1848255,Ale,Ethiopia,Coffeearabica
+5,35.5342011,8.1856216,Ale,Ethiopia,Coffeearabica
+6,35.5334277,8.184817,Ale,Ethiopia,Coffeearabica
+7,35.5335379,8.1837828,Ale,Ethiopia,Coffeearabica
+8,35.534811,8.1828817,Ale,Ethiopia,Coffeearabica
+9,35.5357025,8.1822896,Ale,Ethiopia,Coffeearabica
+10,35.5366161,8.1816504,Ale,Ethiopia,Coffeearabica
+11,35.5371825,8.1810307,Ale,Ethiopia,Coffeearabica
+12,35.5380808,8.1804255,Ale,Ethiopia,Coffeearabica
+13,35.5385041,8.1793151,Ale,Ethiopia,Coffeearabica
+14,35.5393499,8.1781347,Ale,Ethiopia,Coffeearabica
+15,35.539614,8.1762767,Ale,Ethiopia,Coffeearabica
+16,35.5392794,8.1752238,Ale,Ethiopia,Coffeearabica
+17,35.5399691,8.1745097,Ale,Ethiopia,Coffeearabica
+18,35.540272,8.1728494,Ale,Ethiopia,Coffeearabica
+19,35.5403819,8.1715908,Ale,Ethiopia,Coffeearabica
+20,35.5410051,8.1730721,Ale,Ethiopia,Coffeearabica
+21,35.5405705,8.1740445,Ale,Ethiopia,Coffeearabica
+22,35.5407448,8.1751136,Ale,Ethiopia,Coffeearabica
+23,35.541284,8.1727957,Ale,Ethiopia,Coffeearabica
+24,35.5428263,8.1724168,Ale,Ethiopia,Coffeearabica
+25,35.5428526,8.1714026,Ale,Ethiopia,Coffeearabica
+26,35.5435227,8.1736058,Ale,Ethiopia,Coffeearabica
+27,35.543109,8.1741468,Ale,Ethiopia,Coffeearabica
+28,35.5447315,8.1669514,Ale,Ethiopia,Coffeearabica
+29,35.5447391,8.1685705,Ale,Ethiopia,Coffeearabica
+30,35.5435727,8.1700827,Ale,Ethiopia,Coffeearabica
+31,35.5433582,8.1760723,Ale,Ethiopia,Coffeearabica
+32,35.5438231,8.1792875,Ale,Ethiopia,Coffeearabica
+33,35.5448663,8.1835307,Ale,Ethiopia,Coffeearabica
+34,35.5455817,8.1802883,Ale,Ethiopia,Coffeearabica
+35,35.5464259,8.1786365,Ale,Ethiopia,Coffeearabica
+36,35.550433,8.1788762,Ale,Ethiopia,Coffeearabica
+37,35.5512474,8.1764525,Ale,Ethiopia,Coffeearabica
+38,35.5503881,8.1746916,Ale,Ethiopia,Coffeearabica
+39,35.5494544,8.1731843,Ale,Ethiopia,Coffeearabica
+40,35.5506667,8.1715525,Ale,Ethiopia,Coffeearabica
+41,35.5483881,8.1705333,Ale,Ethiopia,Coffeearabica
+42,35.5461689,8.1658794,Ale,Ethiopia,Coffeearabica
+43,35.5437483,8.1682751,Ale,Ethiopia,Coffeearabica
+44,35.5424629,8.16999,Ale,Ethiopia,Coffeearabica
+45,35.5412817,8.2003717,Ale,Ethiopia,Coffeearabica
+46,35.5413198,8.1996975,Ale,Ethiopia,Coffeearabica
+47,35.5407552,8.1990574,Ale,Ethiopia,Coffeearabica
+48,35.5410246,8.1982694,Ale,Ethiopia,Coffeearabica
+49,35.5403983,8.1971608,Ale,Ethiopia,Coffeearabica
+50,35.5399565,8.197385,Ale,Ethiopia,Coffeearabica
+51,35.5406452,8.1919056,Ale,Ethiopia,Coffeearabica
+52,35.5402601,8.1903681,Ale,Ethiopia,Coffeearabica
+53,35.5403634,8.1895786,Ale,Ethiopia,Coffeearabica
+54,35.5395986,8.1895007,Ale,Ethiopia,Coffeearabica
+55,35.5402518,8.1890928,Ale,Ethiopia,Coffeearabica
+56,35.5405253,8.1870145,Ale,Ethiopia,Coffeearabica
+57,35.5398901,8.1861101,Ale,Ethiopia,Coffeearabica
+58,35.5394228,8.1841994,Ale,Ethiopia,Coffeearabica
+59,35.5393901,8.1838151,Ale,Ethiopia,Coffeearabica
+60,35.541199,8.1821214,Ale,Ethiopia,Coffeearabica
+61,35.5415069,8.1830404,Ale,Ethiopia,Coffeearabica
+62,35.5418792,8.1813894,Ale,Ethiopia,Coffeearabica
+63,35.5420445,8.1805002,Ale,Ethiopia,Coffeearabica
+64,35.5429322,8.1792534,Ale,Ethiopia,Coffeearabica
+65,35.6152614,8.073452,Ale,Ethiopia,Coffeearabica
+66,35.6161654,8.0706071,Ale,Ethiopia,Coffeearabica
+67,35.61815,8.0667185,Ale,Ethiopia,Coffeearabica
+68,35.6206036,8.0670851,Ale,Ethiopia,Coffeearabica
+69,35.6248544,8.066865,Ale,Ethiopia,Coffeearabica
+70,35.6253192,8.066082,Ale,Ethiopia,Coffeearabica
+71,35.6211832,8.0683888,Ale,Ethiopia,Coffeearabica
+72,35.6192744,8.0697554,Ale,Ethiopia,Coffeearabica
+73,35.6195061,8.0711785,Ale,Ethiopia,Coffeearabica
+74,35.6213421,8.0715865,Ale,Ethiopia,Coffeearabica
+75,35.6234449,8.0712388,Ale,Ethiopia,Coffeearabica
+76,35.6272812,8.070099,Ale,Ethiopia,Coffeearabica
+77,35.621915,8.0727542,Ale,Ethiopia,Coffeearabica
+78,35.6197719,8.0750272,Ale,Ethiopia,Coffeearabica
+79,35.6167893,8.074611,Ale,Ethiopia,Coffeearabica
+80,35.6152905,8.0746445,Ale,Ethiopia,Coffeearabica
+81,35.6178486,8.0858502,Ale,Ethiopia,Coffeearabica
+82,35.616823,8.0900402,Ale,Ethiopia,Coffeearabica
+83,35.6152782,8.0959601,Ale,Ethiopia,Coffeearabica
+84,35.6153603,8.0916218,Ale,Ethiopia,Coffeearabica
+85,35.6163863,8.0885228,Ale,Ethiopia,Coffeearabica
+86,35.6170967,8.0864016,Ale,Ethiopia,Coffeearabica
+87,35.6168252,8.079741,Ale,Ethiopia,Coffeearabica
+88,35.4928868,8.192228,Ale,Ethiopia,Coffeearabica
+89,35.4943812,8.1937375,Ale,Ethiopia,Coffeearabica
+90,35.4962503,8.1943774,Ale,Ethiopia,Coffeearabica
+91,35.4975815,8.1946426,Ale,Ethiopia,Coffeearabica
+92,35.4991049,8.1950918,Ale,Ethiopia,Coffeearabica
+93,35.4995615,8.1961546,Ale,Ethiopia,Coffeearabica
+94,35.501771,8.1961393,Ale,Ethiopia,Coffeearabica
+95,35.503329,8.197258,Ale,Ethiopia,Coffeearabica
+96,35.5022667,8.1945533,Ale,Ethiopia,Coffeearabica
+97,35.5002703,8.1936009,Ale,Ethiopia,Coffeearabica
+98,35.4986874,8.1921694,Ale,Ethiopia,Coffeearabica
+99,35.4975209,8.1910037,Ale,Ethiopia,Coffeearabica
+100,35.4958104,8.1905024,Ale,Ethiopia,Coffeearabica
+101,35.5197441,8.1683538,Ale,Ethiopia,Coffeearabica
+102,35.5174085,8.1707514,Ale,Ethiopia,Coffeearabica
+103,35.5143441,8.1719223,Ale,Ethiopia,Coffeearabica
+104,35.5103702,8.1714834,Ale,Ethiopia,Coffeearabica
+105,35.5063115,8.1723983,Ale,Ethiopia,Coffeearabica
+106,35.503617,8.1764506,Ale,Ethiopia,Coffeearabica
+107,35.5021883,8.1800223,Ale,Ethiopia,Coffeearabica
+108,35.5011357,8.1846336,Ale,Ethiopia,Coffeearabica
+109,35.5000623,8.1884414,Ale,Ethiopia,Coffeearabica
+110,35.4976812,8.1899176,Ale,Ethiopia,Coffeearabica
+111,35.4949736,8.1922835,Ale,Ethiopia,Coffeearabica
+112,35.4907008,8.1929471,Ale,Ethiopia,Coffeearabica
+113,35.4886653,8.1913372,Ale,Ethiopia,Coffeearabica
+114,35.4839994,8.1907992,Ale,Ethiopia,Coffeearabica
+115,35.4806673,8.1884014,Ale,Ethiopia,Coffeearabica
+116,35.4820794,8.1857433,Ale,Ethiopia,Coffeearabica
+117,35.5857811,8.0715102,Ale,Ethiopia,Coffeearabica
+118,35.5876818,8.0743552,Ale,Ethiopia,Coffeearabica
+119,35.5889349,8.0714805,Ale,Ethiopia,Coffeearabica
+120,35.5903643,8.0740418,Ale,Ethiopia,Coffeearabica
+121,35.5916074,8.0704712,Ale,Ethiopia,Coffeearabica
+122,35.593256,8.0760905,Ale,Ethiopia,Coffeearabica
+123,35.59655,8.0750797,Ale,Ethiopia,Coffeearabica
+124,35.5995409,8.0759518,Ale,Ethiopia,Coffeearabica
+125,35.6022612,8.0754555,Ale,Ethiopia,Coffeearabica
+126,35.6051342,8.0735794,Ale,Ethiopia,Coffeearabica
+127,35.6081697,8.0734773,Ale,Ethiopia,Coffeearabica
+128,35.608459,8.0689033,Ale,Ethiopia,Coffeearabica
+129,35.6102284,8.0713999,Ale,Ethiopia,Coffeearabica
+130,35.6160182,8.0753553,Ale,Ethiopia,Coffeearabica
+131,35.6181085,8.076617,Ale,Ethiopia,Coffeearabica
+132,35.6204083,8.076904,Ale,Ethiopia,Coffeearabica
+133,35.6214372,8.0781661,Ale,Ethiopia,Coffeearabica
+134,35.6230768,8.0764842,Ale,Ethiopia,Coffeearabica
+135,35.6238717,8.0776543,Ale,Ethiopia,Coffeearabica
+136,35.6221059,8.0800588,Ale,Ethiopia,Coffeearabica
+137,35.6268006,8.0809019,Ale,Ethiopia,Coffeearabica
+138,35.6273304,8.0824355,Ale,Ethiopia,Coffeearabica
+139,35.6253933,8.0828767,Ale,Ethiopia,Coffeearabica
+140,35.6225849,8.0838451,Ale,Ethiopia,Coffeearabica
+141,35.6191887,8.0849472,Ale,Ethiopia,Coffeearabica
+142,35.6177569,8.0868924,Ale,Ethiopia,Coffeearabica
+143,35.6200159,8.0902707,Ale,Ethiopia,Coffeearabica
+144,35.6215879,8.0876697,Ale,Ethiopia,Coffeearabica
+145,35.6160876,8.080236,Ale,Ethiopia,Coffeearabica
+146,35.4852538,8.1969411,Ale,Ethiopia,Coffeearabica
+147,35.4820532,8.1947523,Ale,Ethiopia,Coffeearabica
+148,35.48005,8.1928033,Ale,Ethiopia,Coffeearabica
+149,35.4819777,8.1856774,Ale,Ethiopia,Coffeearabica
+150,35.4799405,8.1841864,Ale,Ethiopia,Coffeearabica
+151,35.4790941,8.1850369,Ale,Ethiopia,Coffeearabica
+152,35.4821474,8.1845554,Ale,Ethiopia,Coffeearabica
+153,35.481064,8.1814974,Ale,Ethiopia,Coffeearabica
+154,35.4789864,8.18021,Ale,Ethiopia,Coffeearabica
+155,35.4771671,8.1789437,Ale,Ethiopia,Coffeearabica
+156,35.4761651,8.1760311,Ale,Ethiopia,Coffeearabica
+157,35.476658,8.1734776,Ale,Ethiopia,Coffeearabica
+158,35.4737081,8.1755392,Ale,Ethiopia,Coffeearabica
+159,35.4710689,8.1745273,Ale,Ethiopia,Coffeearabica
+160,35.4671019,8.1752693,Ale,Ethiopia,Coffeearabica
+161,35.4646968,8.1753928,Ale,Ethiopia,Coffeearabica
+162,35.4629701,8.1741779,Ale,Ethiopia,Coffeearabica
+163,35.4725505,8.1734692,Ale,Ethiopia,Coffeearabica
+164,35.4725911,8.178059,Ale,Ethiopia,Coffeearabica
+165,35.4766691,8.1809895,Ale,Ethiopia,Coffeearabica
+166,35.480805,8.1810673,Ale,Ethiopia,Coffeearabica
+167,35.4857674,8.1912311,Ale,Ethiopia,Coffeearabica
+168,35.4901643,8.1926839,Ale,Ethiopia,Coffeearabica
+169,35.6122979,8.075267,Ale,Ethiopia,Coffeearabica
+170,35.4962327,8.1056117,Ale,Ethiopia,Coffeearabica
+171,35.5281328,8.117447,Ale,Ethiopia,Coffeearabica
+172,35.4739613,8.1069335,Ale,Ethiopia,Coffeearabica
+173,35.4715815,8.1098328,Ale,Ethiopia,Coffeearabica
+174,35.4686662,8.1086568,Ale,Ethiopia,Coffeearabica
+175,35.4676977,8.1067158,Ale,Ethiopia,Coffeearabica
+176,35.4657282,8.1094988,Ale,Ethiopia,Coffeearabica
+177,35.4648746,8.1073334,Ale,Ethiopia,Coffeearabica
+178,35.4636109,8.1045851,Ale,Ethiopia,Coffeearabica
+179,35.4675954,8.113922,Ale,Ethiopia,Coffeearabica
+180,35.4711667,8.1157738,Ale,Ethiopia,Coffeearabica
+181,35.470552,8.1121907,Ale,Ethiopia,Coffeearabica
+182,35.472089,8.1076058,Ale,Ethiopia,Coffeearabica
+183,35.4704038,8.1066069,Ale,Ethiopia,Coffeearabica
+184,35.4715923,8.104242,Ale,Ethiopia,Coffeearabica
+185,35.4736017,8.1049815,Ale,Ethiopia,Coffeearabica
+186,35.4738382,8.1031063,Ale,Ethiopia,Coffeearabica
+187,35.4732953,8.1021053,Ale,Ethiopia,Coffeearabica
+188,35.4726533,8.100935,Ale,Ethiopia,Coffeearabica
+189,35.4712878,8.1029957,Ale,Ethiopia,Coffeearabica
+190,35.4702977,8.1026384,Ale,Ethiopia,Coffeearabica
+191,35.4725144,8.1003714,Ale,Ethiopia,Coffeearabica
+192,35.474445,8.0995971,Ale,Ethiopia,Coffeearabica
+193,35.4754983,8.0978885,Ale,Ethiopia,Coffeearabica
+194,35.4752021,8.0966185,Ale,Ethiopia,Coffeearabica
+195,35.4749729,8.0947569,Ale,Ethiopia,Coffeearabica
+196,35.4777775,8.095259,Ale,Ethiopia,Coffeearabica
+197,35.4802522,8.0945694,Ale,Ethiopia,Coffeearabica
+198,35.4828815,8.0955174,Ale,Ethiopia,Coffeearabica
+199,35.4802696,8.0933357,Ale,Ethiopia,Coffeearabica
+200,35.6544465,8.1045565,Ale,Ethiopia,Coffeearabica
+201,35.6463081,8.116945,Ale,Ethiopia,Coffeearabica
+202,35.644661,8.1222533,Ale,Ethiopia,Coffeearabica
+203,35.6437512,8.1261509,Ale,Ethiopia,Coffeearabica
+204,35.6429636,8.1226517,Ale,Ethiopia,Coffeearabica
+205,35.6448452,8.1270646,Ale,Ethiopia,Coffeearabica
+206,35.6485019,8.1259904,Ale,Ethiopia,Coffeearabica
+207,35.6511857,8.1289073,Ale,Ethiopia,Coffeearabica
+208,35.6508076,8.1264293,Ale,Ethiopia,Coffeearabica
+209,35.6493129,8.1237915,Ale,Ethiopia,Coffeearabica
+210,35.6488556,8.1222943,Ale,Ethiopia,Coffeearabica
+211,35.6523851,8.122128,Ale,Ethiopia,Coffeearabica
+212,35.6522969,8.1191516,Ale,Ethiopia,Coffeearabica
+213,35.6527067,8.1170255,Ale,Ethiopia,Coffeearabica
+214,35.6555051,8.1168337,Ale,Ethiopia,Coffeearabica
+215,35.6576651,8.1175821,Ale,Ethiopia,Coffeearabica
+216,35.6571556,8.1159817,Ale,Ethiopia,Coffeearabica
+217,35.6573227,8.1118551,Ale,Ethiopia,Coffeearabica
+218,35.6548588,8.1101403,Ale,Ethiopia,Coffeearabica
+219,35.6528788,8.1062426,Ale,Ethiopia,Coffeearabica
+220,35.6520635,8.1027313,Ale,Ethiopia,Coffeearabica
+221,35.6546975,8.1005009,Ale,Ethiopia,Coffeearabica
+222,35.6578934,8.0964422,Ale,Ethiopia,Coffeearabica
+223,35.6564798,8.0906864,Ale,Ethiopia,Coffeearabica
+224,35.6555396,8.0885753,Ale,Ethiopia,Coffeearabica
+225,35.6572287,8.0870691,Ale,Ethiopia,Coffeearabica
+226,35.657624,8.0887708,Ale,Ethiopia,Coffeearabica
+227,35.6603605,8.0862425,Ale,Ethiopia,Coffeearabica
+228,35.660994,8.08926,Ale,Ethiopia,Coffeearabica
+229,35.5590946,8.1222516,Ale,Ethiopia,Coffeearabica
+230,35.5632935,8.1248921,Ale,Ethiopia,Coffeearabica
+231,35.5652829,8.1287446,Ale,Ethiopia,Coffeearabica
+232,35.5649966,8.1329995,Ale,Ethiopia,Coffeearabica
+233,35.5662886,8.1371594,Ale,Ethiopia,Coffeearabica
+234,35.5691515,8.139176,Ale,Ethiopia,Coffeearabica
+235,35.5730288,8.1396657,Ale,Ethiopia,Coffeearabica
+236,35.5751668,8.1373444,Ale,Ethiopia,Coffeearabica
+237,35.5790879,8.1365802,Ale,Ethiopia,Coffeearabica
+238,35.5777131,8.1343052,Ale,Ethiopia,Coffeearabica
+239,35.5755516,8.1355763,Ale,Ethiopia,Coffeearabica
+240,35.5726157,8.1358586,Ale,Ethiopia,Coffeearabica
+241,35.5718651,8.1348221,Ale,Ethiopia,Coffeearabica
+242,35.5718483,8.1310253,Ale,Ethiopia,Coffeearabica
+243,35.5703887,8.1292964,Ale,Ethiopia,Coffeearabica
+244,35.5681377,8.1273585,Ale,Ethiopia,Coffeearabica
+245,35.5703961,8.1250221,Ale,Ethiopia,Coffeearabica
+246,35.5699811,8.1213309,Ale,Ethiopia,Coffeearabica
+247,35.5670502,8.1170517,Ale,Ethiopia,Coffeearabica
+248,35.565705,8.1155833,Ale,Ethiopia,Coffeearabica
+249,35.5642476,8.1177041,Ale,Ethiopia,Coffeearabica
+250,35.5622071,8.120101,Ale,Ethiopia,Coffeearabica
+251,35.5588473,8.1202475,Ale,Ethiopia,Coffeearabica
+252,35.5605388,8.1106357,Ale,Ethiopia,Coffeearabica
+253,35.5579407,8.1190244,Ale,Ethiopia,Coffeearabica
+254,35.4758476,8.0376395,Ale,Ethiopia,Coffeearabica
+255,35.4773105,8.0388729,Ale,Ethiopia,Coffeearabica
+256,35.4794394,8.0383537,Ale,Ethiopia,Coffeearabica
+257,35.4813556,8.0401846,Ale,Ethiopia,Coffeearabica
+258,35.4833019,8.0411272,Ale,Ethiopia,Coffeearabica
+259,35.4845941,8.0418316,Ale,Ethiopia,Coffeearabica
+260,35.4872798,8.0430538,Ale,Ethiopia,Coffeearabica
+261,35.4863781,8.0452786,Ale,Ethiopia,Coffeearabica
+262,35.4881184,8.0461442,Ale,Ethiopia,Coffeearabica
+263,35.4891574,8.0477575,Ale,Ethiopia,Coffeearabica
+264,35.490415,8.0498991,Ale,Ethiopia,Coffeearabica
+265,35.4902458,8.0526888,Ale,Ethiopia,Coffeearabica
+266,35.4889298,8.0558827,Ale,Ethiopia,Coffeearabica
+267,35.4860329,8.058769,Ale,Ethiopia,Coffeearabica
+268,35.4859031,8.0629927,Ale,Ethiopia,Coffeearabica
+269,35.4847614,8.0654277,Ale,Ethiopia,Coffeearabica
+270,35.4825391,8.0682843,Ale,Ethiopia,Coffeearabica
+271,35.4809647,8.069425,Ale,Ethiopia,Coffeearabica
+272,35.4817317,8.07071,Ale,Ethiopia,Coffeearabica
+273,35.4804489,8.0744201,Ale,Ethiopia,Coffeearabica
+274,35.4807404,8.0840147,Ale,Ethiopia,Coffeearabica
+275,35.47952,8.091343,Ale,Ethiopia,Coffeearabica
+276,35.6400161,8.02205,Ale,Ethiopia,Coffeearabica
+277,35.6391191,8.0265733,Ale,Ethiopia,Coffeearabica
+278,35.6372242,8.0291839,Ale,Ethiopia,Coffeearabica
+279,35.6366527,8.037358,Ale,Ethiopia,Coffeearabica
+280,35.6378954,8.039536,Ale,Ethiopia,Coffeearabica
+281,35.6393155,8.0436365,Ale,Ethiopia,Coffeearabica
+282,35.6377023,8.046848,Ale,Ethiopia,Coffeearabica
+283,35.6389101,8.0522253,Ale,Ethiopia,Coffeearabica
+284,35.6408079,8.0582446,Ale,Ethiopia,Coffeearabica
+285,35.6419904,8.0630933,Ale,Ethiopia,Coffeearabica
+286,35.643499,8.0648921,Ale,Ethiopia,Coffeearabica
+287,35.6452274,8.0669172,Ale,Ethiopia,Coffeearabica
+288,35.6478579,8.0692785,Ale,Ethiopia,Coffeearabica
+289,35.6486067,8.0711434,Ale,Ethiopia,Coffeearabica
+290,35.6475228,8.0712658,Ale,Ethiopia,Coffeearabica
+291,35.6487296,8.0729976,Ale,Ethiopia,Coffeearabica
+292,35.6514231,8.0726443,Ale,Ethiopia,Coffeearabica
+293,35.6524001,8.0733471,Ale,Ethiopia,Coffeearabica
+294,35.6501495,8.0809099,Ale,Ethiopia,Coffeearabica
+295,35.6533706,8.0833928,Ale,Ethiopia,Coffeearabica
+296,35.657259,8.0842369,Ale,Ethiopia,Coffeearabica
+297,35.6619652,8.0871074,Ale,Ethiopia,Coffeearabica
+298,35.6660914,8.0876989,Ale,Ethiopia,Coffeearabica
+299,35.5463318,8.1482633,Ale,Ethiopia,Coffeearabica
+300,35.5504989,8.144686,Ale,Ethiopia,Coffeearabica
+301,35.5516089,8.1439037,Ale,Ethiopia,Coffeearabica
+302,35.55243,8.1377357,Ale,Ethiopia,Coffeearabica
+303,35.5331236,8.137665,Ale,Ethiopia,Coffeearabica
+304,35.536181,8.1351558,Ale,Ethiopia,Coffeearabica
+305,35.5379136,8.121369,Ale,Ethiopia,Coffeearabica
+306,35.5386629,8.1280374,Ale,Ethiopia,Coffeearabica
+307,35.5395175,8.1320858,Ale,Ethiopia,Coffeearabica
+308,35.544033,8.1345724,Ale,Ethiopia,Coffeearabica
+309,35.5495959,8.1339281,Ale,Ethiopia,Coffeearabica
+310,35.5532189,8.1307257,Ale,Ethiopia,Coffeearabica
+311,35.5565504,8.1266533,Ale,Ethiopia,Coffeearabica
+312,35.5563027,8.122363,Ale,Ethiopia,Coffeearabica
+313,35.5582714,8.1184977,Ale,Ethiopia,Coffeearabica
+314,35.559059,8.1142879,Ale,Ethiopia,Coffeearabica
+315,35.5606599,8.1082487,Ale,Ethiopia,Coffeearabica
+316,35.5626727,8.104105,Ale,Ethiopia,Coffeearabica
+317,35.5646773,8.100372,Ale,Ethiopia,Coffeearabica
+318,35.5683952,8.1004523,Ale,Ethiopia,Coffeearabica
+319,35.5602686,8.1091013,Ale,Ethiopia,Coffeearabica
+320,35.5588639,8.1160531,Ale,Ethiopia,Coffeearabica
+321,35.5424937,8.1793709,Ale,Ethiopia,Coffeearabica
+322,35.5445295,8.167042,Ale,Ethiopia,Coffeearabica
+323,35.5429817,8.2035988,Ale,Ethiopia,Coffeearabica
+324,35.5409967,8.2000844,Ale,Ethiopia,Coffeearabica
+325,35.5405153,8.1981003,Ale,Ethiopia,Coffeearabica
+326,35.540514,8.193034,Ale,Ethiopia,Coffeearabica
+327,35.540419,8.1905383,Ale,Ethiopia,Coffeearabica
+328,35.5393306,8.1845633,Ale,Ethiopia,Coffeearabica
+329,35.5434157,8.1759676,Ale,Ethiopia,Coffeearabica
+330,35.5492305,8.1661225,Ale,Ethiopia,Coffeearabica
+331,35.5493655,8.1738708,Ale,Ethiopia,Coffeearabica
+332,35.5550048,8.1853879,Ale,Ethiopia,Coffeearabica
+333,35.544568,8.1670188,Ale,Ethiopia,Coffeearabica
+334,35.5416235,8.2006116,Ale,Ethiopia,Coffeearabica
+335,35.5407916,8.1930239,Ale,Ethiopia,Coffeearabica
+336,35.5405584,8.187189,Ale,Ethiopia,Coffeearabica
+337,35.5392938,8.1849155,Ale,Ethiopia,Coffeearabica
+338,35.5416275,8.1817311,Ale,Ethiopia,Coffeearabica
+339,35.5429596,8.1791369,Ale,Ethiopia,Coffeearabica
+340,35.5433817,8.1763872,Ale,Ethiopia,Coffeearabica
+341,35.5431001,8.1731852,Ale,Ethiopia,Coffeearabica
+342,35.5433098,8.1703483,Ale,Ethiopia,Coffeearabica
+343,35.5458176,8.1659221,Ale,Ethiopia,Coffeearabica
+344,35.5505478,8.1677836,Ale,Ethiopia,Coffeearabica
+345,35.5464717,8.1560605,Ale,Ethiopia,Coffeearabica
+346,35.5457574,8.1672652,Ale,Ethiopia,Coffeearabica
+347,35.5487095,8.1731455,Ale,Ethiopia,Coffeearabica
+348,35.552941,8.1825601,Ale,Ethiopia,Coffeearabica
+349,35.45444167,8.111294444,Ale,Ethiopia,Coffeearabica
+350,35.458025,8.108402778,Ale,Ethiopia,Coffeearabica
+351,35.468975,8.064519444,Ale,Ethiopia,Coffeearabica
+352,35.45985556,8.078694444,Ale,Ethiopia,Coffeearabica
+353,35.44757778,8.088572222,Ale,Ethiopia,Coffeearabica
+354,35.42521944,8.091641667,Ale,Ethiopia,Coffeearabica
+355,35.437775,8.100208333,Ale,Ethiopia,Coffeearabica
+356,35.49573889,8.070222222,Ale,Ethiopia,Coffeearabica
+357,35.51377778,8.050116667,Ale,Ethiopia,Coffeearabica
+358,35.52730278,8.109813889,Ale,Ethiopia,Coffeearabica
+359,35.51093889,8.134769444,Ale,Ethiopia,Coffeearabica
+360,35.52406389,8.2102,Ale,Ethiopia,Coffeearabica
+361,35.50042222,8.216075,Ale,Ethiopia,Coffeearabica
+362,35.49907222,8.224194444,Ale,Ethiopia,Coffeearabica
+363,35.50729722,8.231619444,Ale,Ethiopia,Coffeearabica
+364,35.47198611,8.212852778,Ale,Ethiopia,Coffeearabica
+365,35.46679167,8.217819444,Ale,Ethiopia,Coffeearabica
+366,35.48100278,8.199866667,Ale,Ethiopia,Coffeearabica
+367,35.51969722,8.140486111,Ale,Ethiopia,Coffeearabica
+368,35.52551111,8.108736111,Ale,Ethiopia,Coffeearabica
+369,35.87166667,8.358333333,Ale,Ethiopia,Coffeearabica
+370,35.87166667,8.359722222,Ale,Ethiopia,Coffeearabica
+371,35.8775,8.366944444,Ale,Ethiopia,Coffeearabica
+372,35.87722222,8.366944444,Ale,Ethiopia,Coffeearabica
+373,35.87777778,8.367222222,Ale,Ethiopia,Coffeearabica
+374,35.87861111,8.366944444,Ale,Ethiopia,Coffeearabica
+375,36.41666667,7.782222222,Ale,Ethiopia,Coffeearabica
+376,36.41777778,7.783055556,Ale,Ethiopia,Coffeearabica
+377,36.41666667,7.7825,Ale,Ethiopia,Coffeearabica
+378,36.40055556,7.803055556,Ale,Ethiopia,Coffeearabica
+379,36.39916667,7.786944444,Ale,Ethiopia,Coffeearabica
+380,36.39916667,7.785277778,Ale,Ethiopia,Coffeearabica
+381,36.42777778,7.784722222,Ale,Ethiopia,Coffeearabica
+382,36.42833333,7.785555556,Ale,Ethiopia,Coffeearabica
+383,36.2770446,7.7494316,Gera,Ethiopia,Coffeearabica
+384,36.278484,7.7523583,Gera,Ethiopia,Coffeearabica
+385,36.2827183,7.7538119,Gera,Ethiopia,Coffeearabica
+386,36.2844691,7.7537867,Gera,Ethiopia,Coffeearabica
+387,36.2876449,7.7536813,Gera,Ethiopia,Coffeearabica
+388,36.2902236,7.7553815,Gera,Ethiopia,Coffeearabica
+389,36.2916267,7.7567258,Gera,Ethiopia,Coffeearabica
+390,36.2954317,7.755096,Gera,Ethiopia,Coffeearabica
+391,36.2970469,7.7527744,Gera,Ethiopia,Coffeearabica
+392,36.3000014,7.7513977,Gera,Ethiopia,Coffeearabica
+393,36.3006636,7.748468,Gera,Ethiopia,Coffeearabica
+394,36.3008314,7.746397,Gera,Ethiopia,Coffeearabica
+395,36.2977013,7.7472328,Gera,Ethiopia,Coffeearabica
+396,36.2952737,7.747836,Gera,Ethiopia,Coffeearabica
+397,36.2941997,7.7463371,Gera,Ethiopia,Coffeearabica
+398,36.2918618,7.7451755,Gera,Ethiopia,Coffeearabica
+399,36.2886289,7.7459553,Gera,Ethiopia,Coffeearabica
+400,36.2853313,7.7470687,Gera,Ethiopia,Coffeearabica
+401,36.2821468,7.7485953,Gera,Ethiopia,Coffeearabica
+402,36.2798364,7.7483316,Gera,Ethiopia,Coffeearabica
+403,36.2800964,7.7457565,Gera,Ethiopia,Coffeearabica
+404,36.2781766,7.7418473,Gera,Ethiopia,Coffeearabica
+405,36.2775425,7.7392208,Gera,Ethiopia,Coffeearabica
+406,36.2750376,7.7398561,Gera,Ethiopia,Coffeearabica
+407,36.2733188,7.7426593,Gera,Ethiopia,Coffeearabica
+408,36.2731105,7.7453467,Gera,Ethiopia,Coffeearabica
+409,36.2736261,7.7470424,Gera,Ethiopia,Coffeearabica
+410,36.2758831,7.7480514,Gera,Ethiopia,Coffeearabica
+411,36.2716429,7.7515308,Gera,Ethiopia,Coffeearabica
+412,36.3611322,7.7824084,Gera,Ethiopia,Coffeearabica
+413,36.3603144,7.7772531,Gera,Ethiopia,Coffeearabica
+414,36.3618286,7.7676597,Gera,Ethiopia,Coffeearabica
+415,36.3639956,7.7616778,Gera,Ethiopia,Coffeearabica
+416,36.3685056,7.7544524,Gera,Ethiopia,Coffeearabica
+417,36.3643466,7.7483836,Gera,Ethiopia,Coffeearabica
+418,36.3579686,7.7428807,Gera,Ethiopia,Coffeearabica
+419,36.3634435,7.7432921,Gera,Ethiopia,Coffeearabica
+420,36.3709119,7.7520295,Gera,Ethiopia,Coffeearabica
+421,36.3706831,7.7543168,Gera,Ethiopia,Coffeearabica
+422,36.3707517,7.758775,Gera,Ethiopia,Coffeearabica
+423,36.373623,7.7603701,Gera,Ethiopia,Coffeearabica
+424,36.3699846,7.7627502,Gera,Ethiopia,Coffeearabica
+425,36.3670063,7.7630441,Gera,Ethiopia,Coffeearabica
+426,36.3609661,7.7602491,Gera,Ethiopia,Coffeearabica
+427,36.3579466,7.7602415,Gera,Ethiopia,Coffeearabica
+428,36.3587496,7.7626466,Gera,Ethiopia,Coffeearabica
+429,36.3618034,7.7863983,Gera,Ethiopia,Coffeearabica
+430,36.3643008,7.788482,Gera,Ethiopia,Coffeearabica
+431,36.369437,7.7954873,Gera,Ethiopia,Coffeearabica
+432,36.3782586,7.7962575,Gera,Ethiopia,Coffeearabica
+433,36.3830644,7.7965459,Gera,Ethiopia,Coffeearabica
+434,36.2361578,7.7236093,Gera,Ethiopia,Coffeearabica
+435,36.2389303,7.7236675,Gera,Ethiopia,Coffeearabica
+436,36.2408426,7.7238952,Gera,Ethiopia,Coffeearabica
+437,36.2420274,7.7226908,Gera,Ethiopia,Coffeearabica
+438,36.2444523,7.722593,Gera,Ethiopia,Coffeearabica
+439,36.2462285,7.7222165,Gera,Ethiopia,Coffeearabica
+440,36.2490358,7.7227282,Gera,Ethiopia,Coffeearabica
+441,36.2505826,7.7232263,Gera,Ethiopia,Coffeearabica
+442,36.2512215,7.7255091,Gera,Ethiopia,Coffeearabica
+443,36.2564488,7.7142007,Gera,Ethiopia,Coffeearabica
+444,36.2573676,7.7132202,Gera,Ethiopia,Coffeearabica
+445,36.2597069,7.7134037,Gera,Ethiopia,Coffeearabica
+446,36.2604515,7.7152418,Gera,Ethiopia,Coffeearabica
+447,36.2616794,7.7174298,Gera,Ethiopia,Coffeearabica
+448,36.259471,7.7158261,Gera,Ethiopia,Coffeearabica
+449,36.2579141,7.714812,Gera,Ethiopia,Coffeearabica
+450,36.2570047,7.7143241,Gera,Ethiopia,Coffeearabica
+451,36.2583047,7.7173497,Gera,Ethiopia,Coffeearabica
+452,36.2598244,7.7206473,Gera,Ethiopia,Coffeearabica
+453,36.2575548,7.7244844,Gera,Ethiopia,Coffeearabica
+454,36.2553489,7.725596,Gera,Ethiopia,Coffeearabica
+455,36.2535708,7.7264944,Gera,Ethiopia,Coffeearabica
+456,36.2490226,7.7263027,Gera,Ethiopia,Coffeearabica
+457,36.2581208,7.729099,Gera,Ethiopia,Coffeearabica
+458,36.2610626,7.7321097,Gera,Ethiopia,Coffeearabica
+459,36.413432,7.707441,Gera,Ethiopia,Coffeearabica
+460,36.4129148,7.6971987,Gera,Ethiopia,Coffeearabica
+461,36.4103956,7.6920087,Gera,Ethiopia,Coffeearabica
+462,36.4077644,7.6922991,Gera,Ethiopia,Coffeearabica
+463,36.4080768,7.7023361,Gera,Ethiopia,Coffeearabica
+464,36.4068169,7.7053147,Gera,Ethiopia,Coffeearabica
+465,36.4046878,7.7129468,Gera,Ethiopia,Coffeearabica
+466,36.4010977,7.7200597,Gera,Ethiopia,Coffeearabica
+467,36.4035719,7.7207048,Gera,Ethiopia,Coffeearabica
+468,36.406716,7.7196837,Gera,Ethiopia,Coffeearabica
+469,36.4057892,7.723343,Gera,Ethiopia,Coffeearabica
+470,36.4086008,7.718612,Gera,Ethiopia,Coffeearabica
+471,36.4102938,7.7177872,Gera,Ethiopia,Coffeearabica
+472,36.4086698,7.720941,Gera,Ethiopia,Coffeearabica
+473,36.4075049,7.7251649,Gera,Ethiopia,Coffeearabica
+474,36.4104545,7.7174601,Gera,Ethiopia,Coffeearabica
+475,36.4126325,7.7144077,Gera,Ethiopia,Coffeearabica
+476,36.4132435,7.7096679,Gera,Ethiopia,Coffeearabica
+477,36.4146255,7.7086563,Gera,Ethiopia,Coffeearabica
+478,36.4140538,7.7114702,Gera,Ethiopia,Coffeearabica
+479,36.4142837,7.7076295,Gera,Ethiopia,Coffeearabica
+480,36.4125048,7.7081378,Gera,Ethiopia,Coffeearabica
+481,36.4149518,7.7053462,Gera,Ethiopia,Coffeearabica
+482,36.4139326,7.7026292,Gera,Ethiopia,Coffeearabica
+483,36.4163966,7.7019817,Gera,Ethiopia,Coffeearabica
+484,36.3955371,7.7097221,Gera,Ethiopia,Coffeearabica
+485,36.3898372,7.7179064,Gera,Ethiopia,Coffeearabica
+486,36.3626036,7.7295363,Gera,Ethiopia,Coffeearabica
+487,36.3554673,7.7334905,Gera,Ethiopia,Coffeearabica
+488,36.364676,7.8133555,Gera,Ethiopia,Coffeearabica
+489,36.3631975,7.8114285,Gera,Ethiopia,Coffeearabica
+490,36.3620036,7.8082743,Gera,Ethiopia,Coffeearabica
+491,36.3610327,7.80552,Gera,Ethiopia,Coffeearabica
+492,36.3602842,7.8034513,Gera,Ethiopia,Coffeearabica
+493,36.361412,7.8024268,Gera,Ethiopia,Coffeearabica
+494,36.3624835,7.8021958,Gera,Ethiopia,Coffeearabica
+495,36.3627983,7.8000185,Gera,Ethiopia,Coffeearabica
+496,36.3619794,7.7987796,Gera,Ethiopia,Coffeearabica
+497,36.3637996,7.8005304,Gera,Ethiopia,Coffeearabica
+498,36.3662343,7.7992846,Gera,Ethiopia,Coffeearabica
+499,36.3652336,7.7967622,Gera,Ethiopia,Coffeearabica
+500,36.3628522,7.7941162,Gera,Ethiopia,Coffeearabica
+501,36.3619696,7.7916397,Gera,Ethiopia,Coffeearabica
+502,36.3484676,7.7785246,Gera,Ethiopia,Coffeearabica
+503,36.3466656,7.7804705,Gera,Ethiopia,Coffeearabica
+504,36.3509861,7.7838618,Gera,Ethiopia,Coffeearabica
+505,36.3594387,7.7888465,Gera,Ethiopia,Coffeearabica
+506,36.3793793,7.7938535,Gera,Ethiopia,Coffeearabica
+507,36.3795707,7.7954508,Gera,Ethiopia,Coffeearabica
+508,36.3610043,7.7862369,Gera,Ethiopia,Coffeearabica
+509,36.4655832,7.7305386,Gera,Ethiopia,Coffeearabica
+510,36.462258,7.7295342,Gera,Ethiopia,Coffeearabica
+511,36.4619712,7.7247531,Gera,Ethiopia,Coffeearabica
+512,36.4638929,7.7240797,Gera,Ethiopia,Coffeearabica
+513,36.4599153,7.7247247,Gera,Ethiopia,Coffeearabica
+514,36.4588096,7.727106,Gera,Ethiopia,Coffeearabica
+515,36.4567547,7.7270333,Gera,Ethiopia,Coffeearabica
+516,36.4579334,7.7246991,Gera,Ethiopia,Coffeearabica
+517,36.4516072,7.7244723,Gera,Ethiopia,Coffeearabica
+518,36.4527754,7.721849,Gera,Ethiopia,Coffeearabica
+519,36.4537149,7.7202296,Gera,Ethiopia,Coffeearabica
+520,36.448978,7.7227297,Gera,Ethiopia,Coffeearabica
+521,36.4490428,7.7206656,Gera,Ethiopia,Coffeearabica
+522,36.4477371,7.7183627,Gera,Ethiopia,Coffeearabica
+523,36.4437977,7.7168479,Gera,Ethiopia,Coffeearabica
+524,36.4409747,7.7176522,Gera,Ethiopia,Coffeearabica
+525,36.4417708,7.7117701,Gera,Ethiopia,Coffeearabica
+526,36.4400183,7.7153767,Gera,Ethiopia,Coffeearabica
+527,36.4368813,7.7050423,Gera,Ethiopia,Coffeearabica
+528,36.4371267,7.7102333,Gera,Ethiopia,Coffeearabica
+529,36.4372373,7.7165011,Gera,Ethiopia,Coffeearabica
+530,36.4340058,7.7165412,Gera,Ethiopia,Coffeearabica
+531,36.4217126,7.7150954,Gera,Ethiopia,Coffeearabica
+532,36.4164449,7.7085726,Gera,Ethiopia,Coffeearabica
+533,36.2102703,7.7245388,Gera,Ethiopia,Coffeearabica
+534,36.2113002,7.7272318,Gera,Ethiopia,Coffeearabica
+535,36.2079891,7.7333021,Gera,Ethiopia,Coffeearabica
+536,36.2079484,7.7358592,Gera,Ethiopia,Coffeearabica
+537,36.2108839,7.7378295,Gera,Ethiopia,Coffeearabica
+538,36.2122427,7.7349443,Gera,Ethiopia,Coffeearabica
+539,36.2149968,7.7366553,Gera,Ethiopia,Coffeearabica
+540,36.2170271,7.73748,Gera,Ethiopia,Coffeearabica
+541,36.2155753,7.7345678,Gera,Ethiopia,Coffeearabica
+542,36.2185176,7.7345906,Gera,Ethiopia,Coffeearabica
+543,36.2217142,7.735423,Gera,Ethiopia,Coffeearabica
+544,36.2248337,7.7358008,Gera,Ethiopia,Coffeearabica
+545,36.2288516,7.7373085,Gera,Ethiopia,Coffeearabica
+546,36.2312731,7.7375792,Gera,Ethiopia,Coffeearabica
+547,36.2397642,7.7338888,Gera,Ethiopia,Coffeearabica
+548,36.2376419,7.7317256,Gera,Ethiopia,Coffeearabica
+549,36.2361993,7.7279487,Gera,Ethiopia,Coffeearabica
+550,36.236592,7.725142,Gera,Ethiopia,Coffeearabica
+551,36.237809,7.7232185,Gera,Ethiopia,Coffeearabica
+552,36.2389298,7.7198888,Gera,Ethiopia,Coffeearabica
+553,36.2398009,7.7155951,Gera,Ethiopia,Coffeearabica
+554,36.2365837,7.7160719,Gera,Ethiopia,Coffeearabica
+555,36.2329517,7.7176713,Gera,Ethiopia,Coffeearabica
+556,36.230756,7.7165936,Gera,Ethiopia,Coffeearabica
+557,36.2264546,7.7173186,Gera,Ethiopia,Coffeearabica
+558,36.2231029,7.7167716,Gera,Ethiopia,Coffeearabica
+559,36.2202512,7.7166806,Gera,Ethiopia,Coffeearabica
+560,36.2162485,7.7189376,Gera,Ethiopia,Coffeearabica
+561,36.2120273,7.7206919,Gera,Ethiopia,Coffeearabica
+562,36.2154723,7.7267783,Gera,Ethiopia,Coffeearabica
+563,36.1943626,7.6963572,Gera,Ethiopia,Coffeearabica
+564,36.1873196,7.6947044,Gera,Ethiopia,Coffeearabica
+565,36.1872237,7.6968172,Gera,Ethiopia,Coffeearabica
+566,36.191093,7.7010829,Gera,Ethiopia,Coffeearabica
+567,36.1919273,7.7024074,Gera,Ethiopia,Coffeearabica
+568,36.1903087,7.7021673,Gera,Ethiopia,Coffeearabica
+569,36.1938241,7.7014208,Gera,Ethiopia,Coffeearabica
+570,36.1921342,7.697431,Gera,Ethiopia,Coffeearabica
+571,36.1931893,7.6973866,Gera,Ethiopia,Coffeearabica
+572,36.1946389,7.6974976,Gera,Ethiopia,Coffeearabica
+573,36.1959703,7.6991172,Gera,Ethiopia,Coffeearabica
+574,36.1976028,7.7003948,Gera,Ethiopia,Coffeearabica
+575,36.1983289,7.7016161,Gera,Ethiopia,Coffeearabica
+576,36.1976679,7.6987978,Gera,Ethiopia,Coffeearabica
+577,36.1958926,7.6968108,Gera,Ethiopia,Coffeearabica
+578,36.1935416,7.6956645,Gera,Ethiopia,Coffeearabica
+579,36.1926981,7.6941027,Gera,Ethiopia,Coffeearabica
+580,36.1864213,7.6907868,Gera,Ethiopia,Coffeearabica
+581,36.1879295,7.6922908,Gera,Ethiopia,Coffeearabica
+582,36.4195611,7.790906,Gera,Ethiopia,Coffeearabica
+583,36.416919,7.7945608,Gera,Ethiopia,Coffeearabica
+584,36.4152962,7.7947385,Gera,Ethiopia,Coffeearabica
+585,36.4140023,7.7947057,Gera,Ethiopia,Coffeearabica
+586,36.4119579,7.7953929,Gera,Ethiopia,Coffeearabica
+587,36.4146308,7.79608,Gera,Ethiopia,Coffeearabica
+588,36.4135393,7.7989667,Gera,Ethiopia,Coffeearabica
+589,36.411515,7.796252,Gera,Ethiopia,Coffeearabica
+590,36.4104654,7.7974396,Gera,Ethiopia,Coffeearabica
+591,36.4122557,7.798068,Gera,Ethiopia,Coffeearabica
+592,36.4112823,7.7999286,Gera,Ethiopia,Coffeearabica
+593,36.4091791,7.800787,Gera,Ethiopia,Coffeearabica
+594,36.4063753,7.8027266,Gera,Ethiopia,Coffeearabica
+595,36.4074388,7.8045049,Gera,Ethiopia,Coffeearabica
+596,36.4104597,7.8048099,Gera,Ethiopia,Coffeearabica
+597,36.4085837,7.8074746,Gera,Ethiopia,Coffeearabica
+598,36.4106527,7.8080207,Gera,Ethiopia,Coffeearabica
+599,36.413262,7.8090876,Gera,Ethiopia,Coffeearabica
+600,36.4153848,7.8094611,Gera,Ethiopia,Coffeearabica
+601,36.4158458,7.8077478,Gera,Ethiopia,Coffeearabica
+602,36.4165549,7.8056676,Gera,Ethiopia,Coffeearabica
+603,36.4172546,7.8069595,Gera,Ethiopia,Coffeearabica
+604,36.4174596,7.8039851,Gera,Ethiopia,Coffeearabica
+605,36.4183076,7.803317,Gera,Ethiopia,Coffeearabica
+606,36.4191162,7.8006004,Gera,Ethiopia,Coffeearabica
+607,36.4199883,7.7978852,Gera,Ethiopia,Coffeearabica
+608,36.4201913,7.7949828,Gera,Ethiopia,Coffeearabica
+609,36.4217669,7.790718,Gera,Ethiopia,Coffeearabica
+610,36.4236566,7.7892239,Gera,Ethiopia,Coffeearabica
+611,36.1888254,7.6934814,Gera,Ethiopia,Coffeearabica
+612,36.1898861,7.6922267,Gera,Ethiopia,Coffeearabica
+613,36.1913362,7.6905039,Gera,Ethiopia,Coffeearabica
+614,36.1933039,7.6912546,Gera,Ethiopia,Coffeearabica
+615,36.1955606,7.6898809,Gera,Ethiopia,Coffeearabica
+616,36.1973638,7.688823,Gera,Ethiopia,Coffeearabica
+617,36.1975805,7.6871104,Gera,Ethiopia,Coffeearabica
+618,36.1979278,7.6852479,Gera,Ethiopia,Coffeearabica
+619,36.2002945,7.6852214,Gera,Ethiopia,Coffeearabica
+620,36.2026007,7.6872667,Gera,Ethiopia,Coffeearabica
+621,36.2035401,7.6889355,Gera,Ethiopia,Coffeearabica
+622,36.2033742,7.6906373,Gera,Ethiopia,Coffeearabica
+623,36.2055095,7.6919968,Gera,Ethiopia,Coffeearabica
+624,36.2064887,7.6941079,Gera,Ethiopia,Coffeearabica
+625,36.2075348,7.6967562,Gera,Ethiopia,Coffeearabica
+626,36.2045083,7.6979849,Gera,Ethiopia,Coffeearabica
+627,36.201731,7.6987829,Gera,Ethiopia,Coffeearabica
+628,36.1991783,7.6978235,Gera,Ethiopia,Coffeearabica
+629,36.1986719,7.696483,Gera,Ethiopia,Coffeearabica
+630,36.1962911,7.6958631,Gera,Ethiopia,Coffeearabica
+631,36.1948299,7.6963634,Gera,Ethiopia,Coffeearabica
+632,36.1925547,7.6946881,Gera,Ethiopia,Coffeearabica
+633,36.1901974,7.6941468,Gera,Ethiopia,Coffeearabica
+634,36.2106856,7.7211921,Gera,Ethiopia,Coffeearabica
+635,36.212047,7.7204348,Gera,Ethiopia,Coffeearabica
+636,36.2148572,7.7190677,Gera,Ethiopia,Coffeearabica
+637,36.2182069,7.7175955,Gera,Ethiopia,Coffeearabica
+638,36.2208311,7.7155327,Gera,Ethiopia,Coffeearabica
+639,36.2211881,7.712781,Gera,Ethiopia,Coffeearabica
+640,36.2225942,7.7099393,Gera,Ethiopia,Coffeearabica
+641,36.2273939,7.7094946,Gera,Ethiopia,Coffeearabica
+642,36.2309737,7.710258,Gera,Ethiopia,Coffeearabica
+643,36.2292575,7.7088774,Gera,Ethiopia,Coffeearabica
+644,36.2283972,7.7059719,Gera,Ethiopia,Coffeearabica
+645,36.2271236,7.7041731,Gera,Ethiopia,Coffeearabica
+646,36.2267405,7.7013703,Gera,Ethiopia,Coffeearabica
+647,36.2288798,7.6988488,Gera,Ethiopia,Coffeearabica
+648,36.2275099,7.6976227,Gera,Ethiopia,Coffeearabica
+649,36.22478,7.69887,Gera,Ethiopia,Coffeearabica
+650,36.2222807,7.6981265,Gera,Ethiopia,Coffeearabica
+651,36.2193497,7.6981549,Gera,Ethiopia,Coffeearabica
+652,36.2173257,7.6997153,Gera,Ethiopia,Coffeearabica
+653,36.2153304,7.7024738,Gera,Ethiopia,Coffeearabica
+654,36.2124691,7.7050822,Gera,Ethiopia,Coffeearabica
+655,36.2087365,7.7060086,Gera,Ethiopia,Coffeearabica
+656,36.2054524,7.7073944,Gera,Ethiopia,Coffeearabica
+657,36.2020138,7.7088302,Gera,Ethiopia,Coffeearabica
+658,36.1990234,7.7119029,Gera,Ethiopia,Coffeearabica
+659,36.2024282,7.7163456,Gera,Ethiopia,Coffeearabica
+660,36.2080097,7.7196033,Gera,Ethiopia,Coffeearabica
+661,36.3817683,7.7950186,Gera,Ethiopia,Coffeearabica
+662,36.3875207,7.7943036,Gera,Ethiopia,Coffeearabica
+663,36.3902228,7.7925178,Gera,Ethiopia,Coffeearabica
+664,36.3907761,7.794667,Gera,Ethiopia,Coffeearabica
+665,36.3926864,7.7973028,Gera,Ethiopia,Coffeearabica
+666,36.3926238,7.7930752,Gera,Ethiopia,Coffeearabica
+667,36.3858708,7.7821352,Gera,Ethiopia,Coffeearabica
+668,36.3988329,7.773178,Gera,Ethiopia,Coffeearabica
+669,36.396433,7.7743033,Gera,Ethiopia,Coffeearabica
+670,36.3991012,7.7744341,Gera,Ethiopia,Coffeearabica
+671,36.3974495,7.7755279,Gera,Ethiopia,Coffeearabica
+672,36.3933726,7.7793737,Gera,Ethiopia,Coffeearabica
+673,36.3888382,7.7816592,Gera,Ethiopia,Coffeearabica
+674,36.3912419,7.7869025,Gera,Ethiopia,Coffeearabica
+675,36.3946811,7.7908182,Gera,Ethiopia,Coffeearabica
+676,36.4046175,7.7874597,Gera,Ethiopia,Coffeearabica
+677,36.4128217,7.7846047,Gera,Ethiopia,Coffeearabica
+678,36.442724,7.793339,Gera,Ethiopia,Coffeearabica
+679,36.4348991,7.791501,Gera,Ethiopia,Coffeearabica
+680,36.4296421,7.7888111,Gera,Ethiopia,Coffeearabica
+681,36.4290215,7.7809088,Gera,Ethiopia,Coffeearabica
+682,36.4262567,7.7863939,Gera,Ethiopia,Coffeearabica
+683,36.4190892,7.787675,Gera,Ethiopia,Coffeearabica
+684,36.417507,7.7897549,Gera,Ethiopia,Coffeearabica
+685,36.3235555,7.775464,Gera,Ethiopia,Coffeearabica
+686,36.3231302,7.7751535,Gera,Ethiopia,Coffeearabica
+687,36.322288,7.7752279,Gera,Ethiopia,Coffeearabica
+688,36.3213798,7.7752923,Gera,Ethiopia,Coffeearabica
+689,36.3210509,7.7753425,Gera,Ethiopia,Coffeearabica
+690,36.3207955,7.7754826,Gera,Ethiopia,Coffeearabica
+691,36.3206066,7.7755611,Gera,Ethiopia,Coffeearabica
+692,36.3202645,7.7757009,Gera,Ethiopia,Coffeearabica
+693,36.3197457,7.7759288,Gera,Ethiopia,Coffeearabica
+694,36.3196053,7.7758912,Gera,Ethiopia,Coffeearabica
+695,36.3195555,7.7760204,Gera,Ethiopia,Coffeearabica
+696,36.3193852,7.7762657,Gera,Ethiopia,Coffeearabica
+697,36.319346,7.7765354,Gera,Ethiopia,Coffeearabica
+698,36.3190725,7.7767163,Gera,Ethiopia,Coffeearabica
+699,36.3191501,7.7768924,Gera,Ethiopia,Coffeearabica
+700,36.3190215,7.7773674,Gera,Ethiopia,Coffeearabica
+701,36.3189629,7.7774672,Gera,Ethiopia,Coffeearabica
+702,36.3191748,7.7777866,Gera,Ethiopia,Coffeearabica
+703,36.3193431,7.7781245,Gera,Ethiopia,Coffeearabica
+704,36.3196025,7.7783731,Gera,Ethiopia,Coffeearabica
+705,36.3196074,7.7786149,Gera,Ethiopia,Coffeearabica
+706,36.3198901,7.7789618,Gera,Ethiopia,Coffeearabica
+707,36.3198119,7.7793061,Gera,Ethiopia,Coffeearabica
+708,36.3196888,7.779633,Gera,Ethiopia,Coffeearabica
+709,36.3195972,7.7798681,Gera,Ethiopia,Coffeearabica
+710,36.3195068,7.780112,Gera,Ethiopia,Coffeearabica
+711,36.3193335,7.7804627,Gera,Ethiopia,Coffeearabica
+712,36.3186858,7.7808618,Gera,Ethiopia,Coffeearabica
+713,36.3182757,7.7812496,Gera,Ethiopia,Coffeearabica
+714,36.3182324,7.7813207,Gera,Ethiopia,Coffeearabica
+715,36.3181275,7.7819726,Gera,Ethiopia,Coffeearabica
+716,36.3182931,7.7823984,Gera,Ethiopia,Coffeearabica
+717,36.3184221,7.7830695,Gera,Ethiopia,Coffeearabica
+718,36.3187221,7.7837391,Gera,Ethiopia,Coffeearabica
+719,36.3192723,7.7842721,Gera,Ethiopia,Coffeearabica
+720,36.3193365,7.7846291,Gera,Ethiopia,Coffeearabica
+721,36.3196571,7.7851629,Gera,Ethiopia,Coffeearabica
+722,36.3197116,7.7865479,Gera,Ethiopia,Coffeearabica
+723,36.3196867,7.7868502,Gera,Ethiopia,Coffeearabica
+724,36.3198021,7.7874755,Gera,Ethiopia,Coffeearabica
+725,36.3200928,7.787796,Gera,Ethiopia,Coffeearabica
+726,36.3200181,7.7882213,Gera,Ethiopia,Coffeearabica
+727,36.3200988,7.7886288,Gera,Ethiopia,Coffeearabica
+728,36.3198292,7.7888412,Gera,Ethiopia,Coffeearabica
+729,36.3191824,7.7893681,Gera,Ethiopia,Coffeearabica
+730,36.3189386,7.790013,Gera,Ethiopia,Coffeearabica
+731,36.3189514,7.7904402,Gera,Ethiopia,Coffeearabica
+732,36.3187546,7.7908125,Gera,Ethiopia,Coffeearabica
+733,36.3190085,7.791424,Gera,Ethiopia,Coffeearabica
+734,36.3192411,7.7917872,Gera,Ethiopia,Coffeearabica
+735,36.3193348,7.792168,Gera,Ethiopia,Coffeearabica
+736,36.3198236,7.7922694,Gera,Ethiopia,Coffeearabica
+737,36.320332,7.792458,Gera,Ethiopia,Coffeearabica
+738,36.3205467,7.792544,Gera,Ethiopia,Coffeearabica
+739,36.32083,7.7923968,Gera,Ethiopia,Coffeearabica
+740,36.3236898,7.7757093,Gera,Ethiopia,Coffeearabica
+741,36.3241139,7.7762521,Gera,Ethiopia,Coffeearabica
+742,36.3236301,7.7765336,Gera,Ethiopia,Coffeearabica
+743,36.3235255,7.7770076,Gera,Ethiopia,Coffeearabica
+744,36.3235384,7.7777677,Gera,Ethiopia,Coffeearabica
+745,36.3241236,7.7791194,Gera,Ethiopia,Coffeearabica
+746,36.3254187,7.7829327,Gera,Ethiopia,Coffeearabica
+747,36.3256445,7.7839297,Gera,Ethiopia,Coffeearabica
+748,36.3259695,7.7838392,Gera,Ethiopia,Coffeearabica
+749,36.3270081,7.7839903,Gera,Ethiopia,Coffeearabica
+750,36.3282945,7.7842265,Gera,Ethiopia,Coffeearabica
+751,36.3294803,7.7842822,Gera,Ethiopia,Coffeearabica
+752,36.3304882,7.7842094,Gera,Ethiopia,Coffeearabica
+753,36.3310142,7.7842742,Gera,Ethiopia,Coffeearabica
+754,36.3312339,7.7842341,Gera,Ethiopia,Coffeearabica
+755,36.3318986,7.783796,Gera,Ethiopia,Coffeearabica
+756,36.3321889,7.7838099,Gera,Ethiopia,Coffeearabica
+757,36.3328055,7.7837022,Gera,Ethiopia,Coffeearabica
+758,36.3332615,7.7834646,Gera,Ethiopia,Coffeearabica
+759,36.3335663,7.7833679,Gera,Ethiopia,Coffeearabica
+760,36.3343903,7.7838551,Gera,Ethiopia,Coffeearabica
+761,36.3351815,7.784138,Gera,Ethiopia,Coffeearabica
+762,36.3359527,7.7843934,Gera,Ethiopia,Coffeearabica
+763,36.3364649,7.7845056,Gera,Ethiopia,Coffeearabica
+764,36.3364739,7.7846432,Gera,Ethiopia,Coffeearabica
+765,36.3368268,7.7866207,Gera,Ethiopia,Coffeearabica
+766,36.3363032,7.7871266,Gera,Ethiopia,Coffeearabica
+767,36.3356472,7.7877212,Gera,Ethiopia,Coffeearabica
+768,36.3346432,7.7883346,Gera,Ethiopia,Coffeearabica
+769,36.335009,7.7889895,Gera,Ethiopia,Coffeearabica
+770,36.335176,7.7895413,Gera,Ethiopia,Coffeearabica
+771,36.3352986,7.790406,Gera,Ethiopia,Coffeearabica
+772,36.3343807,7.7912274,Gera,Ethiopia,Coffeearabica
+773,36.3341116,7.7915331,Gera,Ethiopia,Coffeearabica
+774,36.3338968,7.7917681,Gera,Ethiopia,Coffeearabica
+775,36.332883,7.7921194,Gera,Ethiopia,Coffeearabica
+776,36.3313753,7.7920659,Gera,Ethiopia,Coffeearabica
+777,36.33098,7.7921323,Gera,Ethiopia,Coffeearabica
+778,36.3303511,7.7921208,Gera,Ethiopia,Coffeearabica
+779,36.329356,7.7918439,Gera,Ethiopia,Coffeearabica
+780,36.3282968,7.7909438,Gera,Ethiopia,Coffeearabica
+781,36.3274357,7.7905027,Gera,Ethiopia,Coffeearabica
+782,36.3274361,7.7905059,Gera,Ethiopia,Coffeearabica
+783,36.3249225,7.790526,Gera,Ethiopia,Coffeearabica
+784,36.3236332,7.7909073,Gera,Ethiopia,Coffeearabica
+785,36.3225364,7.7910929,Gera,Ethiopia,Coffeearabica
+786,36.23,7.63,Gera,Ethiopia,Coffeearabica
+787,36.28,7.77,Gera,Ethiopia,Coffeearabica
+788,36.42,7.78,Gera,Ethiopia,Coffeearabica
+789,36.44,7.8,Gera,Ethiopia,Coffeearabica
+790,36.4,7.79,Gera,Ethiopia,Coffeearabica
+791,36.24,7.68,Gera,Ethiopia,Coffeearabica
+792,36.29,7.75,Gera,Ethiopia,Coffeearabica
+793,36.33,7.78,Gera,Ethiopia,Coffeearabica
+794,36.43,7.77,Gera,Ethiopia,Coffeearabica
+795,36.43,7.76,Gera,Ethiopia,Coffeearabica
+796,36.32,7.78,Gera,Ethiopia,Coffeearabica
+797,36.41,7.79,Gera,Ethiopia,Coffeearabica
+798,36.38,7.8,Gera,Ethiopia,Coffeearabica
+799,36.34,7.75,Gera,Ethiopia,Coffeearabica
+800,36.35,7.79,Gera,Ethiopia,Coffeearabica
+801,36.35,7.73,Gera,Ethiopia,Coffeearabica
+802,36.37,7.77,Gera,Ethiopia,Coffeearabica
+803,36.25,7.71,Gera,Ethiopia,Coffeearabica
+804,36.37,7.75,Gera,Ethiopia,Coffeearabica
+805,36.24,7.7,Gera,Ethiopia,Coffeearabica
+806,36.24,7.66,Gera,Ethiopia,Coffeearabica
+807,36.33,7.75,Gera,Ethiopia,Coffeearabica
+808,36.23,7.64,Gera,Ethiopia,Coffeearabica
+809,36.29,7.76,Gera,Ethiopia,Coffeearabica
+810,36.29,7.77,Gera,Ethiopia,Coffeearabica
+811,36.28,7.77,Gera,Ethiopia,Coffeearabica
+812,36.27,7.74,Gera,Ethiopia,Coffeearabica
+813,36.41,7.8,Gera,Ethiopia,Coffeearabica
+814,36.22,7.63,Gera,Ethiopia,Coffeearabica
+815,36.28,7.76,Gera,Ethiopia,Coffeearabica
+816,36.59638889,7.848333333,Gera,Ethiopia,Coffeearabica
+817,36.65388889,7.852777778,Gera,Ethiopia,Coffeearabica
+818,36.67805556,7.826666667,Gera,Ethiopia,Coffeearabica
+819,36.71138889,7.76,Gera,Ethiopia,Coffeearabica
+820,36.67805556,7.826666667,Gera,Ethiopia,Coffeearabica
+821,36.77805556,7.993333333,Gera,Ethiopia,Coffeearabica
+822,36.67805556,7.826666667,Gera,Ethiopia,Coffeearabica
+823,36.77805556,7.66,Gera,Ethiopia,Coffeearabica
+824,36.67805556,7.826666667,Gera,Ethiopia,Coffeearabica
+825,36.77805556,8.326666667,Gera,Ethiopia,Coffeearabica
+826,36.67805556,7.826666667,Gera,Ethiopia,Coffeearabica
+827,37.01138889,8.326666667,Gera,Ethiopia,Coffeearabica
+828,36.84472222,7.993333333,Gera,Ethiopia,Coffeearabica
+829,36.05611111,7.310833333,Gera,Ethiopia,Coffeearabica
+830,36.08916667,7.275833333,Gera,Ethiopia,Coffeearabica
+831,36.28948889,7.724775,Gera,Ethiopia,Coffeearabica
+832,36.31738056,7.72795,Gera,Ethiopia,Coffeearabica
+833,36.29961389,7.711144444,Gera,Ethiopia,Coffeearabica
+834,36.33311667,7.701236111,Gera,Ethiopia,Coffeearabica
+835,36.34740556,7.794902778,Gera,Ethiopia,Coffeearabica
+836,36.35716111,7.796833333,Gera,Ethiopia,Coffeearabica
+837,36.30253889,7.775011111,Gera,Ethiopia,Coffeearabica
+838,36.28458056,7.770291667,Gera,Ethiopia,Coffeearabica
+839,36.27763611,7.735483333,Gera,Ethiopia,Coffeearabica
+840,36.19251667,7.666125,Gera,Ethiopia,Coffeearabica
+841,36.23946667,7.525447222,Gera,Ethiopia,Coffeearabica
+842,36.20893611,7.538097222,Gera,Ethiopia,Coffeearabica
+843,36.20984444,7.519027778,Gera,Ethiopia,Coffeearabica
+844,36.23349722,7.521130556,Gera,Ethiopia,Coffeearabica
+845,36.17831667,7.553683333,Gera,Ethiopia,Coffeearabica
+846,36.13731667,7.575116667,Gera,Ethiopia,Coffeearabica
+847,36.12280556,7.589002778,Gera,Ethiopia,Coffeearabica
+848,36.08665,7.580427778,Gera,Ethiopia,Coffeearabica
+849,36.09582778,7.572711111,Gera,Ethiopia,Coffeearabica
+850,36.07682222,7.559666667,Gera,Ethiopia,Coffeearabica
+851,36.06308889,7.564297222,Gera,Ethiopia,Coffeearabica
+852,36.18987222,7.666238889,Gera,Ethiopia,Coffeearabica
+853,36.19399444,7.682030556,Gera,Ethiopia,Coffeearabica
+854,36.18786111,7.697733333,Gera,Ethiopia,Coffeearabica
+855,36.16969722,7.683877778,Gera,Ethiopia,Coffeearabica
+856,36.17349167,7.703341667,Gera,Ethiopia,Coffeearabica
+857,36.16826944,7.667508333,Gera,Ethiopia,Coffeearabica
+858,36.28666667,7.724775,Gera,Ethiopia,Coffeearabica
+859,36.18811667,7.595902778,Gera,Ethiopia,Coffeearabica
+860,36.44505278,7.70655,Gera,Ethiopia,Coffeearabica
+861,36.45541944,7.747952778,Gera,Ethiopia,Coffeearabica
+862,36.6668061,7.9504749,Goma,Ethiopia,Coffeearabica
+863,36.6672207,7.9485384,Goma,Ethiopia,Coffeearabica
+864,36.6657178,7.9485436,Goma,Ethiopia,Coffeearabica
+865,36.6626993,7.9516434,Goma,Ethiopia,Coffeearabica
+866,36.6623093,7.9530182,Goma,Ethiopia,Coffeearabica
+867,36.6617233,7.9542145,Goma,Ethiopia,Coffeearabica
+868,36.6598363,7.956564,Goma,Ethiopia,Coffeearabica
+869,36.6575637,7.9579745,Goma,Ethiopia,Coffeearabica
+870,36.6558144,7.9571147,Goma,Ethiopia,Coffeearabica
+871,36.6537159,7.9586374,Goma,Ethiopia,Coffeearabica
+872,36.6529471,7.9595075,Goma,Ethiopia,Coffeearabica
+873,36.6524058,7.9612144,Goma,Ethiopia,Coffeearabica
+874,36.6520807,7.9625884,Goma,Ethiopia,Coffeearabica
+875,36.6506397,7.9634457,Goma,Ethiopia,Coffeearabica
+876,36.6521953,7.9641102,Goma,Ethiopia,Coffeearabica
+877,36.653542,7.9640543,Goma,Ethiopia,Coffeearabica
+878,36.65398,7.9625683,Goma,Ethiopia,Coffeearabica
+879,36.6546369,7.961397,Goma,Ethiopia,Coffeearabica
+880,36.654045,7.958899,Goma,Ethiopia,Coffeearabica
+881,36.6646676,7.9481568,Goma,Ethiopia,Coffeearabica
+882,36.6643891,7.946443,Goma,Ethiopia,Coffeearabica
+883,36.6629927,7.9445699,Goma,Ethiopia,Coffeearabica
+884,36.6638743,7.9431968,Goma,Ethiopia,Coffeearabica
+885,36.6649839,7.9447028,Goma,Ethiopia,Coffeearabica
+886,36.6662639,7.9425156,Goma,Ethiopia,Coffeearabica
+887,36.6655691,7.9402462,Goma,Ethiopia,Coffeearabica
+888,36.666878,7.9448381,Goma,Ethiopia,Coffeearabica
+889,36.6679219,7.946251,Goma,Ethiopia,Coffeearabica
+890,36.7021887,7.934006,Goma,Ethiopia,Coffeearabica
+891,36.7016559,7.9311394,Goma,Ethiopia,Coffeearabica
+892,36.7008139,7.9278361,Goma,Ethiopia,Coffeearabica
+893,36.6997114,7.9255578,Goma,Ethiopia,Coffeearabica
+894,36.7016528,7.9248713,Goma,Ethiopia,Coffeearabica
+895,36.7033991,7.9232566,Goma,Ethiopia,Coffeearabica
+896,36.7048317,7.925373,Goma,Ethiopia,Coffeearabica
+897,36.7067885,7.925985,Goma,Ethiopia,Coffeearabica
+898,36.708164,7.9247767,Goma,Ethiopia,Coffeearabica
+899,36.709841,7.9264854,Goma,Ethiopia,Coffeearabica
+900,36.7129736,7.9250156,Goma,Ethiopia,Coffeearabica
+901,36.7144263,7.9261659,Goma,Ethiopia,Coffeearabica
+902,36.7164271,7.9274895,Goma,Ethiopia,Coffeearabica
+903,36.7167728,7.928445,Goma,Ethiopia,Coffeearabica
+904,36.7174715,7.9316393,Goma,Ethiopia,Coffeearabica
+905,36.718957,7.93187,Goma,Ethiopia,Coffeearabica
+906,36.7152908,7.9378314,Goma,Ethiopia,Coffeearabica
+907,36.7118089,7.9345499,Goma,Ethiopia,Coffeearabica
+908,36.7085697,7.9363812,Goma,Ethiopia,Coffeearabica
+909,36.7070031,7.9372687,Goma,Ethiopia,Coffeearabica
+910,36.7057432,7.9366914,Goma,Ethiopia,Coffeearabica
+911,36.706169,7.9345221,Goma,Ethiopia,Coffeearabica
+912,36.7050683,7.9329869,Goma,Ethiopia,Coffeearabica
+913,36.7042956,7.9304598,Goma,Ethiopia,Coffeearabica
+914,36.7033934,7.9334821,Goma,Ethiopia,Coffeearabica
+915,36.6964658,7.9164597,Goma,Ethiopia,Coffeearabica
+916,36.6970302,7.9189653,Goma,Ethiopia,Coffeearabica
+917,36.6980394,7.9227368,Goma,Ethiopia,Coffeearabica
+918,36.6984835,7.924457,Goma,Ethiopia,Coffeearabica
+919,36.698114,7.928633,Goma,Ethiopia,Coffeearabica
+920,36.6661429,7.9519337,Goma,Ethiopia,Coffeearabica
+921,36.6655883,7.9540149,Goma,Ethiopia,Coffeearabica
+922,36.6667771,7.9572233,Goma,Ethiopia,Coffeearabica
+923,36.6661174,7.9610644,Goma,Ethiopia,Coffeearabica
+924,36.6648081,7.9626602,Goma,Ethiopia,Coffeearabica
+925,36.6625833,7.9655233,Goma,Ethiopia,Coffeearabica
+926,36.6622178,7.9701944,Goma,Ethiopia,Coffeearabica
+927,36.666036,7.9704754,Goma,Ethiopia,Coffeearabica
+928,36.6701492,7.9685354,Goma,Ethiopia,Coffeearabica
+929,36.6729078,7.9675284,Goma,Ethiopia,Coffeearabica
+930,36.6860491,7.9759983,Goma,Ethiopia,Coffeearabica
+931,36.6801992,7.9711595,Goma,Ethiopia,Coffeearabica
+932,36.6768322,7.9692213,Goma,Ethiopia,Coffeearabica
+933,36.6730904,7.9643221,Goma,Ethiopia,Coffeearabica
+934,36.6743287,7.9564046,Goma,Ethiopia,Coffeearabica
+935,36.6713147,7.9545149,Goma,Ethiopia,Coffeearabica
+936,36.6810981,7.916775,Goma,Ethiopia,Coffeearabica
+937,36.6791616,7.9219334,Goma,Ethiopia,Coffeearabica
+938,36.6776152,7.9265713,Goma,Ethiopia,Coffeearabica
+939,36.6752591,7.9314191,Goma,Ethiopia,Coffeearabica
+940,36.6741596,7.9380587,Goma,Ethiopia,Coffeearabica
+941,36.6706887,7.9441466,Goma,Ethiopia,Coffeearabica
+942,36.6692014,7.9483252,Goma,Ethiopia,Coffeearabica
+943,36.6694898,7.9516261,Goma,Ethiopia,Coffeearabica
+944,36.6669468,7.9499823,Goma,Ethiopia,Coffeearabica
+945,36.7007534,7.9325911,Goma,Ethiopia,Coffeearabica
+946,36.6988513,7.9334528,Goma,Ethiopia,Coffeearabica
+947,36.6988408,7.9361389,Goma,Ethiopia,Coffeearabica
+948,36.6980099,7.9376196,Goma,Ethiopia,Coffeearabica
+949,36.696675,7.9381073,Goma,Ethiopia,Coffeearabica
+950,36.6950068,7.9396916,Goma,Ethiopia,Coffeearabica
+951,36.6952269,7.9406703,Goma,Ethiopia,Coffeearabica
+952,36.6945905,7.9417298,Goma,Ethiopia,Coffeearabica
+953,36.6940362,7.9423952,Goma,Ethiopia,Coffeearabica
+954,36.6934871,7.9438822,Goma,Ethiopia,Coffeearabica
+955,36.6921086,7.9446478,Goma,Ethiopia,Coffeearabica
+956,36.6924275,7.9464807,Goma,Ethiopia,Coffeearabica
+957,36.693654,7.9466728,Goma,Ethiopia,Coffeearabica
+958,36.6957017,7.9470105,Goma,Ethiopia,Coffeearabica
+959,36.6964656,7.9477589,Goma,Ethiopia,Coffeearabica
+960,36.6998666,7.9476723,Goma,Ethiopia,Coffeearabica
+961,36.7029974,7.9474945,Goma,Ethiopia,Coffeearabica
+962,36.7063359,7.9453323,Goma,Ethiopia,Coffeearabica
+963,36.7080537,7.9443084,Goma,Ethiopia,Coffeearabica
+964,36.7096317,7.9426617,Goma,Ethiopia,Coffeearabica
+965,36.6919638,7.9636663,Goma,Ethiopia,Coffeearabica
+966,36.6940874,7.9595801,Goma,Ethiopia,Coffeearabica
+967,36.6981171,7.9563435,Goma,Ethiopia,Coffeearabica
+968,36.702123,7.9552703,Goma,Ethiopia,Coffeearabica
+969,36.7056318,7.9539279,Goma,Ethiopia,Coffeearabica
+970,36.7072586,7.9489796,Goma,Ethiopia,Coffeearabica
+971,36.709089,7.94241,Goma,Ethiopia,Coffeearabica
+972,36.5247867,7.8179567,Goma,Ethiopia,Coffeearabica
+973,36.5253666,7.8163267,Goma,Ethiopia,Coffeearabica
+974,36.5266796,7.8174167,Goma,Ethiopia,Coffeearabica
+975,36.528138,7.8177637,Goma,Ethiopia,Coffeearabica
+976,36.5308404,7.8174633,Goma,Ethiopia,Coffeearabica
+977,36.5328222,7.8185313,Goma,Ethiopia,Coffeearabica
+978,36.5348444,7.8185364,Goma,Ethiopia,Coffeearabica
+979,36.5383702,7.8189476,Goma,Ethiopia,Coffeearabica
+980,36.5421605,7.8210579,Goma,Ethiopia,Coffeearabica
+981,36.5448708,7.8232896,Goma,Ethiopia,Coffeearabica
+982,36.5450378,7.8249158,Goma,Ethiopia,Coffeearabica
+983,36.5447342,7.8267064,Goma,Ethiopia,Coffeearabica
+984,36.5459657,7.8313607,Goma,Ethiopia,Coffeearabica
+985,36.5457747,7.8338813,Goma,Ethiopia,Coffeearabica
+986,36.5466221,7.8354144,Goma,Ethiopia,Coffeearabica
+987,36.5500114,7.8368569,Goma,Ethiopia,Coffeearabica
+988,36.5502301,7.8381443,Goma,Ethiopia,Coffeearabica
+989,36.5501414,7.8397487,Goma,Ethiopia,Coffeearabica
+990,36.5485755,7.8398329,Goma,Ethiopia,Coffeearabica
+991,36.5462289,7.839474,Goma,Ethiopia,Coffeearabica
+992,36.555442,7.8383815,Goma,Ethiopia,Coffeearabica
+993,36.5591383,7.841945,Goma,Ethiopia,Coffeearabica
+994,36.5669652,7.8501479,Goma,Ethiopia,Coffeearabica
+995,36.5713248,7.8578744,Goma,Ethiopia,Coffeearabica
+996,36.5761475,7.8605293,Goma,Ethiopia,Coffeearabica
+997,36.5451441,7.8397088,Goma,Ethiopia,Coffeearabica
+998,36.5500625,7.8397018,Goma,Ethiopia,Coffeearabica
+999,36.5548666,7.8384636,Goma,Ethiopia,Coffeearabica
+1000,36.5618238,7.8424849,Goma,Ethiopia,Coffeearabica
+1001,36.5675092,7.8503998,Goma,Ethiopia,Coffeearabica
+1002,36.5728573,7.8542203,Goma,Ethiopia,Coffeearabica
+1003,36.5700247,7.8586955,Goma,Ethiopia,Coffeearabica
+1004,36.5618906,7.8391205,Goma,Ethiopia,Coffeearabica
+1005,36.5609568,7.8368005,Goma,Ethiopia,Coffeearabica
+1006,36.5597875,7.8309419,Goma,Ethiopia,Coffeearabica
+1007,36.5597187,7.8229046,Goma,Ethiopia,Coffeearabica
+1008,36.5575617,7.8288116,Goma,Ethiopia,Coffeearabica
+1009,36.5553912,7.8270774,Goma,Ethiopia,Coffeearabica
+1010,36.552778,7.8286763,Goma,Ethiopia,Coffeearabica
+1011,36.5509834,7.8262203,Goma,Ethiopia,Coffeearabica
+1012,36.5494323,7.825594,Goma,Ethiopia,Coffeearabica
+1013,36.5480507,7.8286691,Goma,Ethiopia,Coffeearabica
+1014,36.5455576,7.8302141,Goma,Ethiopia,Coffeearabica
+1015,36.5459041,7.83245,Goma,Ethiopia,Coffeearabica
+1016,36.5449943,7.8342466,Goma,Ethiopia,Coffeearabica
+1017,36.5458078,7.8357833,Goma,Ethiopia,Coffeearabica
+1018,36.5474253,7.8349661,Goma,Ethiopia,Coffeearabica
+1019,36.5491018,7.8354819,Goma,Ethiopia,Coffeearabica
+1020,36.5504065,7.8381061,Goma,Ethiopia,Coffeearabica
+1021,36.5483438,7.8392888,Goma,Ethiopia,Coffeearabica
+1022,36.5417799,7.8395443,Goma,Ethiopia,Coffeearabica
+1023,36.5396643,7.8416586,Goma,Ethiopia,Coffeearabica
+1024,36.5382145,7.8381556,Goma,Ethiopia,Coffeearabica
+1025,36.5185787,7.8591923,Goma,Ethiopia,Coffeearabica
+1026,36.5170465,7.856883,Goma,Ethiopia,Coffeearabica
+1027,36.5147337,7.8559703,Goma,Ethiopia,Coffeearabica
+1028,36.5120306,7.855254,Goma,Ethiopia,Coffeearabica
+1029,36.5103106,7.8538267,Goma,Ethiopia,Coffeearabica
+1030,36.5114796,7.85224,Goma,Ethiopia,Coffeearabica
+1031,36.5123976,7.8507006,Goma,Ethiopia,Coffeearabica
+1032,36.5145334,7.8499558,Goma,Ethiopia,Coffeearabica
+1033,36.5153125,7.8515997,Goma,Ethiopia,Coffeearabica
+1034,36.5152653,7.8533097,Goma,Ethiopia,Coffeearabica
+1035,36.513638,7.8536897,Goma,Ethiopia,Coffeearabica
+1036,36.5129059,7.8542904,Goma,Ethiopia,Coffeearabica
+1037,36.5147694,7.8551446,Goma,Ethiopia,Coffeearabica
+1038,36.5183865,7.8568699,Goma,Ethiopia,Coffeearabica
+1039,36.5193437,7.8566965,Goma,Ethiopia,Coffeearabica
+1040,36.5224059,7.8567659,Goma,Ethiopia,Coffeearabica
+1041,36.5230598,7.853879,Goma,Ethiopia,Coffeearabica
+1042,36.5233114,7.8552294,Goma,Ethiopia,Coffeearabica
+1043,36.5213068,7.8585235,Goma,Ethiopia,Coffeearabica
+1044,36.519923,7.8608301,Goma,Ethiopia,Coffeearabica
+1045,36.5229043,7.8630357,Goma,Ethiopia,Coffeearabica
+1046,36.5269457,7.8661554,Goma,Ethiopia,Coffeearabica
+1047,36.5295021,7.8683748,Goma,Ethiopia,Coffeearabica
+1048,36.5255841,7.8724261,Goma,Ethiopia,Coffeearabica
+1049,36.5378356,7.8704433,Goma,Ethiopia,Coffeearabica
+1050,36.5441706,7.8748463,Goma,Ethiopia,Coffeearabica
+1051,36.5480966,7.8749167,Goma,Ethiopia,Coffeearabica
+1052,36.5473967,7.875063,Goma,Ethiopia,Coffeearabica
+1053,36.550799,7.8764119,Goma,Ethiopia,Coffeearabica
+1054,36.5543352,7.8779874,Goma,Ethiopia,Coffeearabica
+1055,36.5587851,7.8844143,Goma,Ethiopia,Coffeearabica
+1056,36.5586113,7.8906631,Goma,Ethiopia,Coffeearabica
+1057,36.5570539,7.8989545,Goma,Ethiopia,Coffeearabica
+1058,36.5594856,7.8917784,Goma,Ethiopia,Coffeearabica
+1059,36.5624796,7.8924311,Goma,Ethiopia,Coffeearabica
+1060,36.5648715,7.8922871,Goma,Ethiopia,Coffeearabica
+1061,36.5662208,7.8903483,Goma,Ethiopia,Coffeearabica
+1062,36.5696764,7.8914286,Goma,Ethiopia,Coffeearabica
+1063,36.5729564,7.8919547,Goma,Ethiopia,Coffeearabica
+1064,36.5710788,7.8889495,Goma,Ethiopia,Coffeearabica
+1065,36.5684071,7.8894352,Goma,Ethiopia,Coffeearabica
+1066,36.5659628,7.8884716,Goma,Ethiopia,Coffeearabica
+1067,36.5634835,7.8872231,Goma,Ethiopia,Coffeearabica
+1068,36.5615605,7.8878813,Goma,Ethiopia,Coffeearabica
+1069,36.5597244,7.8873035,Goma,Ethiopia,Coffeearabica
+1070,36.5574305,7.8878894,Goma,Ethiopia,Coffeearabica
+1071,36.5531277,7.8869824,Goma,Ethiopia,Coffeearabica
+1072,36.5501476,7.8877057,Goma,Ethiopia,Coffeearabica
+1073,36.5483457,7.8853827,Goma,Ethiopia,Coffeearabica
+1074,36.5491428,7.883064,Goma,Ethiopia,Coffeearabica
+1075,36.5477272,7.8826754,Goma,Ethiopia,Coffeearabica
+1076,36.5478057,7.8808869,Goma,Ethiopia,Coffeearabica
+1077,36.5458595,7.8796809,Goma,Ethiopia,Coffeearabica
+1078,36.544241,7.8771894,Goma,Ethiopia,Coffeearabica
+1079,36.5462849,7.8764382,Goma,Ethiopia,Coffeearabica
+1080,36.5755633,7.8633367,Goma,Ethiopia,Coffeearabica
+1081,36.5061986,7.7642177,Goma,Ethiopia,Coffeearabica
+1082,36.5026054,7.7646183,Goma,Ethiopia,Coffeearabica
+1083,36.4987404,7.7671501,Goma,Ethiopia,Coffeearabica
+1084,36.4972208,7.7734549,Goma,Ethiopia,Coffeearabica
+1085,36.4996807,7.781065,Goma,Ethiopia,Coffeearabica
+1086,36.4995985,7.7859129,Goma,Ethiopia,Coffeearabica
+1087,36.4962301,7.7659484,Goma,Ethiopia,Coffeearabica
+1088,36.4937647,7.7660509,Goma,Ethiopia,Coffeearabica
+1089,36.4932537,7.7723088,Goma,Ethiopia,Coffeearabica
+1090,36.4938468,7.7746563,Goma,Ethiopia,Coffeearabica
+1091,36.4939154,7.7769858,Goma,Ethiopia,Coffeearabica
+1092,36.4921587,7.7768218,Goma,Ethiopia,Coffeearabica
+1093,36.4918254,7.7741141,Goma,Ethiopia,Coffeearabica
+1094,36.4939476,7.7622991,Goma,Ethiopia,Coffeearabica
+1095,36.4914973,7.7610677,Goma,Ethiopia,Coffeearabica
+1096,36.4899461,7.760057,Goma,Ethiopia,Coffeearabica
+1097,36.4865183,7.7590583,Goma,Ethiopia,Coffeearabica
+1098,36.4878403,7.7575504,Goma,Ethiopia,Coffeearabica
+1099,36.4892851,7.7569953,Goma,Ethiopia,Coffeearabica
+1100,36.490035,7.7589628,Goma,Ethiopia,Coffeearabica
+1101,36.4928389,7.759968,Goma,Ethiopia,Coffeearabica
+1102,36.4942637,7.7610776,Goma,Ethiopia,Coffeearabica
+1103,36.4983024,7.7623197,Goma,Ethiopia,Coffeearabica
+1104,36.4976167,7.7641234,Goma,Ethiopia,Coffeearabica
+1105,36.4952353,7.7632207,Goma,Ethiopia,Coffeearabica
+1106,36.5025234,7.7685715,Goma,Ethiopia,Coffeearabica
+1107,36.5044187,7.7718602,Goma,Ethiopia,Coffeearabica
+1108,36.5045722,7.7693427,Goma,Ethiopia,Coffeearabica
+1109,36.4997376,7.7908008,Goma,Ethiopia,Coffeearabica
+1110,36.5611752,7.7110211,Goma,Ethiopia,Coffeearabica
+1111,36.5598044,7.7141997,Goma,Ethiopia,Coffeearabica
+1112,36.5574729,7.7222504,Goma,Ethiopia,Coffeearabica
+1113,36.5557735,7.7202561,Goma,Ethiopia,Coffeearabica
+1114,36.5500668,7.7228966,Goma,Ethiopia,Coffeearabica
+1115,36.5513282,7.7230408,Goma,Ethiopia,Coffeearabica
+1116,36.5500248,7.7268299,Goma,Ethiopia,Coffeearabica
+1117,36.5454805,7.7328443,Goma,Ethiopia,Coffeearabica
+1118,36.5479657,7.7314695,Goma,Ethiopia,Coffeearabica
+1119,36.5469791,7.7359849,Goma,Ethiopia,Coffeearabica
+1120,36.5432924,7.7390634,Goma,Ethiopia,Coffeearabica
+1121,36.5403787,7.7445232,Goma,Ethiopia,Coffeearabica
+1122,36.5374934,7.7463923,Goma,Ethiopia,Coffeearabica
+1123,36.5339831,7.7485657,Goma,Ethiopia,Coffeearabica
+1124,36.5310681,7.7474934,Goma,Ethiopia,Coffeearabica
+1125,36.5281875,7.7479209,Goma,Ethiopia,Coffeearabica
+1126,36.531361,7.7493291,Goma,Ethiopia,Coffeearabica
+1127,36.5279769,7.7515947,Goma,Ethiopia,Coffeearabica
+1128,36.5241594,7.7511948,Goma,Ethiopia,Coffeearabica
+1129,36.5245504,7.7521176,Goma,Ethiopia,Coffeearabica
+1130,36.5220599,7.7541492,Goma,Ethiopia,Coffeearabica
+1131,36.5175416,7.7557683,Goma,Ethiopia,Coffeearabica
+1132,36.5110597,7.7603678,Goma,Ethiopia,Coffeearabica
+1133,36.5120555,7.7692736,Goma,Ethiopia,Coffeearabica
+1134,36.5097593,7.7642991,Goma,Ethiopia,Coffeearabica
+1135,36.5066436,7.7633282,Goma,Ethiopia,Coffeearabica
+1136,36.4821949,7.7037636,Goma,Ethiopia,Coffeearabica
+1137,36.5018977,7.688638,Goma,Ethiopia,Coffeearabica
+1138,36.5043056,7.6857489,Goma,Ethiopia,Coffeearabica
+1139,36.5061032,7.6831005,Goma,Ethiopia,Coffeearabica
+1140,36.4833873,7.7043796,Goma,Ethiopia,Coffeearabica
+1141,36.4847515,7.7056632,Goma,Ethiopia,Coffeearabica
+1142,36.507505,7.6789035,Goma,Ethiopia,Coffeearabica
+1143,36.485382,7.7059947,Goma,Ethiopia,Coffeearabica
+1144,36.5055325,7.6756116,Goma,Ethiopia,Coffeearabica
+1145,36.4864029,7.706217,Goma,Ethiopia,Coffeearabica
+1146,36.5011472,7.6729168,Goma,Ethiopia,Coffeearabica
+1147,36.4856763,7.7038712,Goma,Ethiopia,Coffeearabica
+1148,36.5002297,7.6738974,Goma,Ethiopia,Coffeearabica
+1149,36.4850273,7.7023382,Goma,Ethiopia,Coffeearabica
+1150,36.4973869,7.6690692,Goma,Ethiopia,Coffeearabica
+1151,36.4836628,7.6996355,Goma,Ethiopia,Coffeearabica
+1152,36.4962785,7.6680983,Goma,Ethiopia,Coffeearabica
+1153,36.4854817,7.6999029,Goma,Ethiopia,Coffeearabica
+1154,36.5087817,7.682721,Goma,Ethiopia,Coffeearabica
+1155,36.4866863,7.7005174,Goma,Ethiopia,Coffeearabica
+1156,36.5098748,7.6855922,Goma,Ethiopia,Coffeearabica
+1157,36.4977634,7.6964232,Goma,Ethiopia,Coffeearabica
+1158,36.4877767,7.7011949,Goma,Ethiopia,Coffeearabica
+1159,36.499113,7.6997559,Goma,Ethiopia,Coffeearabica
+1160,36.4878439,7.6989968,Goma,Ethiopia,Coffeearabica
+1161,36.5027173,7.6971759,Goma,Ethiopia,Coffeearabica
+1162,36.4885526,7.7013163,Goma,Ethiopia,Coffeearabica
+1163,36.5023735,7.7015507,Goma,Ethiopia,Coffeearabica
+1164,36.5016213,7.7048804,Goma,Ethiopia,Coffeearabica
+1165,36.4889934,7.7032374,Goma,Ethiopia,Coffeearabica
+1166,36.5040977,7.7039798,Goma,Ethiopia,Coffeearabica
+1167,36.5076241,7.7034712,Goma,Ethiopia,Coffeearabica
+1168,36.4888607,7.704959,Goma,Ethiopia,Coffeearabica
+1169,36.5106707,7.7014873,Goma,Ethiopia,Coffeearabica
+1170,36.5129392,7.6977225,Goma,Ethiopia,Coffeearabica
+1171,36.5182767,7.69534,Goma,Ethiopia,Coffeearabica
+1172,36.5061225,7.706241,Goma,Ethiopia,Coffeearabica
+1173,36.4942465,7.6976451,Goma,Ethiopia,Coffeearabica
+1174,36.4871095,7.7067554,Goma,Ethiopia,Coffeearabica
+1175,36.4933301,7.7002654,Goma,Ethiopia,Coffeearabica
+1176,36.4903814,7.7019622,Goma,Ethiopia,Coffeearabica
+1177,36.4910882,7.7058141,Goma,Ethiopia,Coffeearabica
+1178,36.4893672,7.707643,Goma,Ethiopia,Coffeearabica
+1179,36.4847069,7.7071306,Goma,Ethiopia,Coffeearabica
+1180,36.4826696,7.7049977,Goma,Ethiopia,Coffeearabica
+1181,36.4836541,7.6984205,Goma,Ethiopia,Coffeearabica
+1182,36.4858741,7.6959768,Goma,Ethiopia,Coffeearabica
+1183,36.4896297,7.6955169,Goma,Ethiopia,Coffeearabica
+1184,36.4922606,7.6952727,Goma,Ethiopia,Coffeearabica
+1185,36.4951212,7.6939219,Goma,Ethiopia,Coffeearabica
+1186,36.4983527,7.6912567,Goma,Ethiopia,Coffeearabica
+1187,36.5255857,7.8172818,Goma,Ethiopia,Coffeearabica
+1188,36.5227596,7.8737,Goma,Ethiopia,Coffeearabica
+1189,36.5249165,7.8737313,Goma,Ethiopia,Coffeearabica
+1190,36.5261073,7.8718764,Goma,Ethiopia,Coffeearabica
+1191,36.5315562,7.8687264,Goma,Ethiopia,Coffeearabica
+1192,36.5325569,7.8674222,Goma,Ethiopia,Coffeearabica
+1193,36.5361564,7.8708766,Goma,Ethiopia,Coffeearabica
+1194,36.5380308,7.8706693,Goma,Ethiopia,Coffeearabica
+1195,36.5403447,7.8725279,Goma,Ethiopia,Coffeearabica
+1196,36.5481644,7.8755006,Goma,Ethiopia,Coffeearabica
+1197,36.551752,7.8770535,Goma,Ethiopia,Coffeearabica
+1198,36.5543435,7.8783921,Goma,Ethiopia,Coffeearabica
+1199,36.5590623,7.878834,Goma,Ethiopia,Coffeearabica
+1200,36.5572513,7.8809169,Goma,Ethiopia,Coffeearabica
+1201,36.5552821,7.9024335,Goma,Ethiopia,Coffeearabica
+1202,36.5587869,7.8904563,Goma,Ethiopia,Coffeearabica
+1203,36.5297535,7.869309,Goma,Ethiopia,Coffeearabica
+1204,36.5282957,7.8673093,Goma,Ethiopia,Coffeearabica
+1205,36.5257289,7.8654048,Goma,Ethiopia,Coffeearabica
+1206,36.5200367,7.861429,Goma,Ethiopia,Coffeearabica
+1207,36.5232173,7.8638597,Goma,Ethiopia,Coffeearabica
+1208,36.5400836,7.8724267,Goma,Ethiopia,Coffeearabica
+1209,36.5441841,7.8747871,Goma,Ethiopia,Coffeearabica
+1210,36.5479597,7.8740284,Goma,Ethiopia,Coffeearabica
+1211,36.5521988,7.8768063,Goma,Ethiopia,Coffeearabica
+1212,36.5540393,7.8775463,Goma,Ethiopia,Coffeearabica
+1213,36.5544467,7.8765,Goma,Ethiopia,Coffeearabica
+1214,36.5535662,7.8760084,Goma,Ethiopia,Coffeearabica
+1215,36.5523243,7.8751397,Goma,Ethiopia,Coffeearabica
+1216,36.5537822,7.8773134,Goma,Ethiopia,Coffeearabica
+1217,36.5596624,7.8794687,Goma,Ethiopia,Coffeearabica
+1218,36.5569067,7.8809141,Goma,Ethiopia,Coffeearabica
+1219,36.5566757,7.8957882,Goma,Ethiopia,Coffeearabica
+1220,36.5590849,7.8905317,Goma,Ethiopia,Coffeearabica
+1221,36.5583817,7.8850365,Goma,Ethiopia,Coffeearabica
+1222,36.5679249,7.854126,Goma,Ethiopia,Coffeearabica
+1223,36.567568,7.8507601,Goma,Ethiopia,Coffeearabica
+1224,36.5678178,7.8490426,Goma,Ethiopia,Coffeearabica
+1225,36.5681525,7.847533,Goma,Ethiopia,Coffeearabica
+1226,36.5679624,7.8465364,Goma,Ethiopia,Coffeearabica
+1227,36.5646865,7.8451096,Goma,Ethiopia,Coffeearabica
+1228,36.5624568,7.8432564,Goma,Ethiopia,Coffeearabica
+1229,36.5593767,7.8408367,Goma,Ethiopia,Coffeearabica
+1230,36.5559359,7.8384374,Goma,Ethiopia,Coffeearabica
+1231,36.5521762,7.8382617,Goma,Ethiopia,Coffeearabica
+1232,36.5314038,7.8233345,Goma,Ethiopia,Coffeearabica
+1233,36.5359191,7.8226066,Goma,Ethiopia,Coffeearabica
+1234,36.5394526,7.8238873,Goma,Ethiopia,Coffeearabica
+1235,36.5419454,7.8289294,Goma,Ethiopia,Coffeearabica
+1236,36.5422916,7.8345466,Goma,Ethiopia,Coffeearabica
+1237,36.5436338,7.8386555,Goma,Ethiopia,Coffeearabica
+1238,36.5345712,7.8381311,Goma,Ethiopia,Coffeearabica
+1239,36.5381713,7.8380748,Goma,Ethiopia,Coffeearabica
+1240,36.5408882,7.8385587,Goma,Ethiopia,Coffeearabica
+1241,36.5431131,7.8397258,Goma,Ethiopia,Coffeearabica
+1242,36.5445503,7.8419436,Goma,Ethiopia,Coffeearabica
+1243,36.5263771,7.8186889,Goma,Ethiopia,Coffeearabica
+1244,36.6738517,7.9688827,Goma,Ethiopia,Coffeearabica
+1245,36.67324,7.9635253,Goma,Ethiopia,Coffeearabica
+1246,36.6748058,7.9578377,Goma,Ethiopia,Coffeearabica
+1247,36.6734758,7.9548381,Goma,Ethiopia,Coffeearabica
+1248,36.6701529,7.9528281,Goma,Ethiopia,Coffeearabica
+1249,36.6676831,7.9529253,Goma,Ethiopia,Coffeearabica
+1250,36.667662,7.9547054,Goma,Ethiopia,Coffeearabica
+1251,36.6671241,7.9572566,Goma,Ethiopia,Coffeearabica
+1252,36.6675009,7.9586426,Goma,Ethiopia,Coffeearabica
+1253,36.6668565,7.9610184,Goma,Ethiopia,Coffeearabica
+1254,36.6661488,7.9621886,Goma,Ethiopia,Coffeearabica
+1255,36.6651481,7.9610852,Goma,Ethiopia,Coffeearabica
+1256,36.6643899,7.9613222,Goma,Ethiopia,Coffeearabica
+1257,36.6657134,7.9594766,Goma,Ethiopia,Coffeearabica
+1258,36.6661237,7.9584652,Goma,Ethiopia,Coffeearabica
+1259,36.6659043,7.9563937,Goma,Ethiopia,Coffeearabica
+1260,36.6659286,7.9555049,Goma,Ethiopia,Coffeearabica
+1261,36.6648572,7.9542204,Goma,Ethiopia,Coffeearabica
+1262,36.6655686,7.9530539,Goma,Ethiopia,Coffeearabica
+1263,36.6671039,7.953925,Goma,Ethiopia,Coffeearabica
+1264,36.6689084,7.9537432,Goma,Ethiopia,Coffeearabica
+1265,36.6688316,7.9523241,Goma,Ethiopia,Coffeearabica
+1266,36.6693387,7.9510581,Goma,Ethiopia,Coffeearabica
+1267,36.6702306,7.9493546,Goma,Ethiopia,Coffeearabica
+1268,36.6707931,7.947596,Goma,Ethiopia,Coffeearabica
+1269,36.6689158,7.9485945,Goma,Ethiopia,Coffeearabica
+1270,36.6918503,7.9111426,Goma,Ethiopia,Coffeearabica
+1271,36.6945765,7.9145413,Goma,Ethiopia,Coffeearabica
+1272,36.6994544,7.9224745,Goma,Ethiopia,Coffeearabica
+1273,36.6975029,7.9213221,Goma,Ethiopia,Coffeearabica
+1274,36.6977006,7.9232786,Goma,Ethiopia,Coffeearabica
+1275,36.6996904,7.9248084,Goma,Ethiopia,Coffeearabica
+1276,36.7055781,7.9360704,Goma,Ethiopia,Coffeearabica
+1277,36.7076422,7.93881,Goma,Ethiopia,Coffeearabica
+1278,36.7100398,7.9396165,Goma,Ethiopia,Coffeearabica
+1279,36.7100266,7.938002,Goma,Ethiopia,Coffeearabica
+1280,36.7105765,7.9409696,Goma,Ethiopia,Coffeearabica
+1281,36.7099048,7.9423038,Goma,Ethiopia,Coffeearabica
+1282,36.7108784,7.9431654,Goma,Ethiopia,Coffeearabica
+1283,36.7151523,7.9418944,Goma,Ethiopia,Coffeearabica
+1284,36.7171035,7.9412901,Goma,Ethiopia,Coffeearabica
+1285,36.7164883,7.9440999,Goma,Ethiopia,Coffeearabica
+1286,36.7165278,7.9458709,Goma,Ethiopia,Coffeearabica
+1287,36.7154244,7.946796,Goma,Ethiopia,Coffeearabica
+1288,36.7141771,7.9448873,Goma,Ethiopia,Coffeearabica
+1289,36.7123196,7.9437137,Goma,Ethiopia,Coffeearabica
+1290,36.7019563,7.935597,Goma,Ethiopia,Coffeearabica
+1291,36.6996805,7.9373612,Goma,Ethiopia,Coffeearabica
+1292,36.6981581,7.9380838,Goma,Ethiopia,Coffeearabica
+1293,36.6987387,7.9363314,Goma,Ethiopia,Coffeearabica
+1294,36.6988201,7.9342036,Goma,Ethiopia,Coffeearabica
+1295,36.6999775,7.9338822,Goma,Ethiopia,Coffeearabica
+1296,36.7015805,7.9345063,Goma,Ethiopia,Coffeearabica
+1297,36.7022947,7.9340356,Goma,Ethiopia,Coffeearabica
+1298,36.9258346,8.1517504,Limu seka,Ethiopia,Coffeearabica
+1299,36.9246999,8.1519447,Limu seka,Ethiopia,Coffeearabica
+1300,36.9239596,8.1517949,Limu seka,Ethiopia,Coffeearabica
+1301,36.9213235,8.1513308,Limu seka,Ethiopia,Coffeearabica
+1302,36.9180198,8.1521231,Limu seka,Ethiopia,Coffeearabica
+1303,36.9183344,8.1530862,Limu seka,Ethiopia,Coffeearabica
+1304,36.924813,8.1575756,Limu seka,Ethiopia,Coffeearabica
+1305,36.9252971,8.1583245,Limu seka,Ethiopia,Coffeearabica
+1306,36.9254715,8.1603258,Limu seka,Ethiopia,Coffeearabica
+1307,36.9255793,8.1602465,Limu seka,Ethiopia,Coffeearabica
+1308,36.9306905,8.1888463,Limu seka,Ethiopia,Coffeearabica
+1309,36.9314044,8.1885405,Limu seka,Ethiopia,Coffeearabica
+1310,36.9304001,8.1879477,Limu seka,Ethiopia,Coffeearabica
+1311,36.9291448,8.1884378,Limu seka,Ethiopia,Coffeearabica
+1312,36.929415,8.187897,Limu seka,Ethiopia,Coffeearabica
+1313,36.9293437,8.1855078,Limu seka,Ethiopia,Coffeearabica
+1314,36.9293216,8.1857538,Limu seka,Ethiopia,Coffeearabica
+1315,36.9292571,8.1857521,Limu seka,Ethiopia,Coffeearabica
+1316,36.929561,8.1851319,Limu seka,Ethiopia,Coffeearabica
+1317,36.9296543,8.1850736,Limu seka,Ethiopia,Coffeearabica
+1318,36.9261846,8.1799864,Limu seka,Ethiopia,Coffeearabica
+1319,36.9262478,8.1798397,Limu seka,Ethiopia,Coffeearabica
+1320,36.9260534,8.1799375,Limu seka,Ethiopia,Coffeearabica
+1321,36.9273001,8.1518571,Limu seka,Ethiopia,Coffeearabica
+1322,36.9272972,8.1518189,Limu seka,Ethiopia,Coffeearabica
+1323,36.92716,8.1518112,Limu seka,Ethiopia,Coffeearabica
+1324,36.9271666,8.1516485,Limu seka,Ethiopia,Coffeearabica
+1325,36.9270246,8.1516925,Limu seka,Ethiopia,Coffeearabica
+1326,36.9267287,8.1516849,Limu seka,Ethiopia,Coffeearabica
+1327,36.9279075,8.1521264,Limu seka,Ethiopia,Coffeearabica
+1328,36.9314822,8.1555391,Limu seka,Ethiopia,Coffeearabica
+1329,36.9385793,8.1544212,Limu seka,Ethiopia,Coffeearabica
+1330,36.9411442,8.158643,Limu seka,Ethiopia,Coffeearabica
+1331,36.9408786,8.1626878,Limu seka,Ethiopia,Coffeearabica
+1332,36.9393993,8.166268,Limu seka,Ethiopia,Coffeearabica
+1333,36.9386898,8.1715994,Limu seka,Ethiopia,Coffeearabica
+1334,36.9373323,8.1736033,Limu seka,Ethiopia,Coffeearabica
+1335,36.9382595,8.1756835,Limu seka,Ethiopia,Coffeearabica
+1336,36.9370332,8.1777677,Limu seka,Ethiopia,Coffeearabica
+1337,36.938293,8.1658808,Limu seka,Ethiopia,Coffeearabica
+1338,36.9379557,8.1619548,Limu seka,Ethiopia,Coffeearabica
+1339,36.9374067,8.158113,Limu seka,Ethiopia,Coffeearabica
+1340,36.9336847,8.1556655,Limu seka,Ethiopia,Coffeearabica
+1341,36.9347814,8.1507866,Limu seka,Ethiopia,Coffeearabica
+1342,36.9333103,8.1498116,Limu seka,Ethiopia,Coffeearabica
+1343,36.931107,8.1506315,Limu seka,Ethiopia,Coffeearabica
+1344,36.9269397,8.1515232,Limu seka,Ethiopia,Coffeearabica
+1345,36.9235444,8.1488406,Limu seka,Ethiopia,Coffeearabica
+1346,36.922201,8.1438242,Limu seka,Ethiopia,Coffeearabica
+1347,36.9250343,8.1384403,Limu seka,Ethiopia,Coffeearabica
+1348,36.9276981,8.143985,Limu seka,Ethiopia,Coffeearabica
+1349,36.9282573,8.1540566,Limu seka,Ethiopia,Coffeearabica
+1350,36.9265013,8.1559179,Limu seka,Ethiopia,Coffeearabica
+1351,36.92916,8.158092,Limu seka,Ethiopia,Coffeearabica
+1352,36.8509776,8.4399256,Limu seka,Ethiopia,Coffeearabica
+1353,36.8487031,8.4349269,Limu seka,Ethiopia,Coffeearabica
+1354,36.846569,8.4333701,Limu seka,Ethiopia,Coffeearabica
+1355,36.8455766,8.4298105,Limu seka,Ethiopia,Coffeearabica
+1356,36.8423227,8.4299757,Limu seka,Ethiopia,Coffeearabica
+1357,36.8393592,8.4304182,Limu seka,Ethiopia,Coffeearabica
+1358,36.8371092,8.4280593,Limu seka,Ethiopia,Coffeearabica
+1359,36.8364099,8.424576,Limu seka,Ethiopia,Coffeearabica
+1360,36.8361361,8.4229719,Limu seka,Ethiopia,Coffeearabica
+1361,36.8377212,8.4242924,Limu seka,Ethiopia,Coffeearabica
+1362,36.8385295,8.4254419,Limu seka,Ethiopia,Coffeearabica
+1363,36.840443,8.4291395,Limu seka,Ethiopia,Coffeearabica
+1364,36.8441163,8.4289441,Limu seka,Ethiopia,Coffeearabica
+1365,36.8499475,8.4321001,Limu seka,Ethiopia,Coffeearabica
+1366,36.8467019,8.4345949,Limu seka,Ethiopia,Coffeearabica
+1367,36.8562629,8.4371004,Limu seka,Ethiopia,Coffeearabica
+1368,36.859454,8.4367945,Limu seka,Ethiopia,Coffeearabica
+1369,36.862157,8.4328161,Limu seka,Ethiopia,Coffeearabica
+1370,36.8650951,8.4347775,Limu seka,Ethiopia,Coffeearabica
+1371,36.8669623,8.4352826,Limu seka,Ethiopia,Coffeearabica
+1372,36.8655333,8.4367083,Limu seka,Ethiopia,Coffeearabica
+1373,36.8636324,8.4365322,Limu seka,Ethiopia,Coffeearabica
+1374,36.8630569,8.4393654,Limu seka,Ethiopia,Coffeearabica
+1375,36.8612507,8.4392975,Limu seka,Ethiopia,Coffeearabica
+1376,36.8609408,8.441557,Limu seka,Ethiopia,Coffeearabica
+1377,36.8566633,8.4429317,Limu seka,Ethiopia,Coffeearabica
+1378,36.8553835,8.440808,Limu seka,Ethiopia,Coffeearabica
+1379,36.9349407,8.2829827,Limu seka,Ethiopia,Coffeearabica
+1380,36.9317081,8.284489,Limu seka,Ethiopia,Coffeearabica
+1381,36.9298359,8.2860487,Limu seka,Ethiopia,Coffeearabica
+1382,36.9291632,8.2866323,Limu seka,Ethiopia,Coffeearabica
+1383,36.9283225,8.2891567,Limu seka,Ethiopia,Coffeearabica
+1384,36.9272976,8.2895478,Limu seka,Ethiopia,Coffeearabica
+1385,36.9270528,8.292514,Limu seka,Ethiopia,Coffeearabica
+1386,36.9270129,8.2941986,Limu seka,Ethiopia,Coffeearabica
+1387,36.9286265,8.2941844,Limu seka,Ethiopia,Coffeearabica
+1388,36.9287562,8.2955366,Limu seka,Ethiopia,Coffeearabica
+1389,36.9328977,8.2950052,Limu seka,Ethiopia,Coffeearabica
+1390,36.9341181,8.2937279,Limu seka,Ethiopia,Coffeearabica
+1391,36.9344599,8.2929376,Limu seka,Ethiopia,Coffeearabica
+1392,36.9352894,8.2922995,Limu seka,Ethiopia,Coffeearabica
+1393,36.9367706,8.2921962,Limu seka,Ethiopia,Coffeearabica
+1394,36.9365174,8.2931626,Limu seka,Ethiopia,Coffeearabica
+1395,36.9379397,8.2913784,Limu seka,Ethiopia,Coffeearabica
+1396,36.9368234,8.2905552,Limu seka,Ethiopia,Coffeearabica
+1397,36.9350123,8.2892885,Limu seka,Ethiopia,Coffeearabica
+1398,36.9344678,8.2872686,Limu seka,Ethiopia,Coffeearabica
+1399,36.9341848,8.2852767,Limu seka,Ethiopia,Coffeearabica
+1400,36.9332957,8.2844186,Limu seka,Ethiopia,Coffeearabica
+1401,36.9344013,8.2830468,Limu seka,Ethiopia,Coffeearabica
+1402,36.9349261,8.2854762,Limu seka,Ethiopia,Coffeearabica
+1403,36.859448,8.4590477,Limu seka,Ethiopia,Coffeearabica
+1404,36.860349,8.4595666,Limu seka,Ethiopia,Coffeearabica
+1405,36.859285,8.461225,Limu seka,Ethiopia,Coffeearabica
+1406,36.8593973,8.4617962,Limu seka,Ethiopia,Coffeearabica
+1407,36.8592736,8.4621605,Limu seka,Ethiopia,Coffeearabica
+1408,36.8588272,8.4623782,Limu seka,Ethiopia,Coffeearabica
+1409,36.8585775,8.4639969,Limu seka,Ethiopia,Coffeearabica
+1410,36.8586184,8.4642978,Limu seka,Ethiopia,Coffeearabica
+1411,36.8588157,8.4644075,Limu seka,Ethiopia,Coffeearabica
+1412,36.8594036,8.4644565,Limu seka,Ethiopia,Coffeearabica
+1413,36.8599425,8.464475,Limu seka,Ethiopia,Coffeearabica
+1414,36.859603,8.4643218,Limu seka,Ethiopia,Coffeearabica
+1415,36.8590367,8.4657195,Limu seka,Ethiopia,Coffeearabica
+1416,36.8586836,8.465686,Limu seka,Ethiopia,Coffeearabica
+1417,36.8585371,8.4655346,Limu seka,Ethiopia,Coffeearabica
+1418,36.8583678,8.4657121,Limu seka,Ethiopia,Coffeearabica
+1419,36.8580366,8.465441,Limu seka,Ethiopia,Coffeearabica
+1420,36.8583743,8.4649958,Limu seka,Ethiopia,Coffeearabica
+1421,36.8588478,8.4650925,Limu seka,Ethiopia,Coffeearabica
+1422,36.8589082,8.4652463,Limu seka,Ethiopia,Coffeearabica
+1423,36.8472616,8.4420877,Limu seka,Ethiopia,Coffeearabica
+1424,36.8474354,8.4426238,Limu seka,Ethiopia,Coffeearabica
+1425,36.848003,8.4426415,Limu seka,Ethiopia,Coffeearabica
+1426,36.8482649,8.4426255,Limu seka,Ethiopia,Coffeearabica
+1427,36.8491928,8.4423992,Limu seka,Ethiopia,Coffeearabica
+1428,36.8494082,8.4424424,Limu seka,Ethiopia,Coffeearabica
+1429,36.8496806,8.4423843,Limu seka,Ethiopia,Coffeearabica
+1430,36.8501801,8.4422595,Limu seka,Ethiopia,Coffeearabica
+1431,36.8501798,8.442108,Limu seka,Ethiopia,Coffeearabica
+1432,36.8503789,8.4423601,Limu seka,Ethiopia,Coffeearabica
+1433,36.8500777,8.4427464,Limu seka,Ethiopia,Coffeearabica
+1434,36.9348462,8.278168,Limu seka,Ethiopia,Coffeearabica
+1435,36.9351458,8.2777203,Limu seka,Ethiopia,Coffeearabica
+1436,36.9361817,8.2771241,Limu seka,Ethiopia,Coffeearabica
+1437,36.9370321,8.279472,Limu seka,Ethiopia,Coffeearabica
+1438,36.9369173,8.279948,Limu seka,Ethiopia,Coffeearabica
+1439,36.9374532,8.2805314,Limu seka,Ethiopia,Coffeearabica
+1440,36.9375646,8.2809242,Limu seka,Ethiopia,Coffeearabica
+1441,36.9376162,8.2816886,Limu seka,Ethiopia,Coffeearabica
+1442,36.9379718,8.2824234,Limu seka,Ethiopia,Coffeearabica
+1443,36.9384859,8.2834031,Limu seka,Ethiopia,Coffeearabica
+1444,36.9385907,8.2857871,Limu seka,Ethiopia,Coffeearabica
+1445,36.9383326,8.2860563,Limu seka,Ethiopia,Coffeearabica
+1446,36.939357,8.2877502,Limu seka,Ethiopia,Coffeearabica
+1447,36.9398025,8.2886236,Limu seka,Ethiopia,Coffeearabica
+1448,36.9397247,8.2896372,Limu seka,Ethiopia,Coffeearabica
+1449,36.9405596,8.2910317,Limu seka,Ethiopia,Coffeearabica
+1450,36.9420622,8.2921722,Limu seka,Ethiopia,Coffeearabica
+1451,36.9428834,8.293735,Limu seka,Ethiopia,Coffeearabica
+1452,36.935246,8.3108442,Limu seka,Ethiopia,Coffeearabica
+1453,36.9345742,8.3099762,Limu seka,Ethiopia,Coffeearabica
+1454,36.9341693,8.3081759,Limu seka,Ethiopia,Coffeearabica
+1455,36.93691,8.30728,Limu seka,Ethiopia,Coffeearabica
+1456,36.9379285,8.307859,Limu seka,Ethiopia,Coffeearabica
+1457,36.9388311,8.3084707,Limu seka,Ethiopia,Coffeearabica
+1458,36.9400341,8.3087364,Limu seka,Ethiopia,Coffeearabica
+1459,36.9410789,8.3093368,Limu seka,Ethiopia,Coffeearabica
+1460,36.9413356,8.3091091,Limu seka,Ethiopia,Coffeearabica
+1461,36.9442275,8.3105367,Limu seka,Ethiopia,Coffeearabica
+1462,36.9468191,8.3089008,Limu seka,Ethiopia,Coffeearabica
+1463,36.9490607,8.3068135,Limu seka,Ethiopia,Coffeearabica
+1464,36.8432335,8.2028828,Limu seka,Ethiopia,Coffeearabica
+1465,36.8439144,8.1984418,Limu seka,Ethiopia,Coffeearabica
+1466,36.8440185,8.1944203,Limu seka,Ethiopia,Coffeearabica
+1467,36.8431219,8.1902111,Limu seka,Ethiopia,Coffeearabica
+1468,36.8435829,8.1813998,Limu seka,Ethiopia,Coffeearabica
+1469,36.8466391,8.1778603,Limu seka,Ethiopia,Coffeearabica
+1470,36.8512124,8.1727039,Limu seka,Ethiopia,Coffeearabica
+1471,36.845661,8.1823124,Limu seka,Ethiopia,Coffeearabica
+1472,36.8469186,8.1821669,Limu seka,Ethiopia,Coffeearabica
+1473,36.8488522,8.1825888,Limu seka,Ethiopia,Coffeearabica
+1474,36.8478838,8.1849372,Limu seka,Ethiopia,Coffeearabica
+1475,36.8483712,8.1864138,Limu seka,Ethiopia,Coffeearabica
+1476,36.8478912,8.1895653,Limu seka,Ethiopia,Coffeearabica
+1477,36.847553,8.1917194,Limu seka,Ethiopia,Coffeearabica
+1478,36.8479841,8.1935256,Limu seka,Ethiopia,Coffeearabica
+1479,36.8473082,8.1951979,Limu seka,Ethiopia,Coffeearabica
+1480,36.8499249,8.1964492,Limu seka,Ethiopia,Coffeearabica
+1481,36.8514932,8.1957244,Limu seka,Ethiopia,Coffeearabica
+1482,36.8528729,8.19311,Limu seka,Ethiopia,Coffeearabica
+1483,36.8497448,8.1983717,Limu seka,Ethiopia,Coffeearabica
+1484,36.8476782,8.1990573,Limu seka,Ethiopia,Coffeearabica
+1485,36.8462185,8.2004868,Limu seka,Ethiopia,Coffeearabica
+1486,36.8456282,8.216818,Limu seka,Ethiopia,Coffeearabica
+1487,36.8479347,8.2260781,Limu seka,Ethiopia,Coffeearabica
+1488,36.8630063,8.243378,Limu seka,Ethiopia,Coffeearabica
+1489,36.8832149,8.2456768,Limu seka,Ethiopia,Coffeearabica
+1490,36.9385877,8.4562518,Limu seka,Ethiopia,Coffeearabica
+1491,36.9474573,8.4587238,Limu seka,Ethiopia,Coffeearabica
+1492,36.9491087,8.4576642,Limu seka,Ethiopia,Coffeearabica
+1493,36.9499618,8.4562127,Limu seka,Ethiopia,Coffeearabica
+1494,36.9493842,8.450807,Limu seka,Ethiopia,Coffeearabica
+1495,36.9456324,8.453211,Limu seka,Ethiopia,Coffeearabica
+1496,36.9436532,8.4500473,Limu seka,Ethiopia,Coffeearabica
+1497,36.9423465,8.4474676,Limu seka,Ethiopia,Coffeearabica
+1498,36.9420582,8.4446341,Limu seka,Ethiopia,Coffeearabica
+1499,36.9411194,8.4409215,Limu seka,Ethiopia,Coffeearabica
+1500,36.9434775,8.4364252,Limu seka,Ethiopia,Coffeearabica
+1501,36.9454727,8.4329462,Limu seka,Ethiopia,Coffeearabica
+1502,36.9465667,8.4305501,Limu seka,Ethiopia,Coffeearabica
+1503,36.944606,8.4329428,Limu seka,Ethiopia,Coffeearabica
+1504,36.9427563,8.4329566,Limu seka,Ethiopia,Coffeearabica
+1505,36.940433,8.4332991,Limu seka,Ethiopia,Coffeearabica
+1506,36.9385273,8.4355168,Limu seka,Ethiopia,Coffeearabica
+1507,36.9374759,8.4376554,Limu seka,Ethiopia,Coffeearabica
+1508,36.9360379,8.4398829,Limu seka,Ethiopia,Coffeearabica
+1509,36.9334693,8.4411307,Limu seka,Ethiopia,Coffeearabica
+1510,36.9310937,8.4417879,Limu seka,Ethiopia,Coffeearabica
+1511,36.9293221,8.4428743,Limu seka,Ethiopia,Coffeearabica
+1512,36.9278188,8.4403271,Limu seka,Ethiopia,Coffeearabica
+1513,36.9271017,8.4377427,Limu seka,Ethiopia,Coffeearabica
+1514,36.9258037,8.43536,Limu seka,Ethiopia,Coffeearabica
+1515,36.9216627,8.4331615,Limu seka,Ethiopia,Coffeearabica
+1516,36.9279783,8.4467026,Limu seka,Ethiopia,Coffeearabica
+1517,36.9309637,8.4517445,Limu seka,Ethiopia,Coffeearabica
+1518,36.9358337,8.4553633,Limu seka,Ethiopia,Coffeearabica
+1519,36.8151508,8.4314859,Limu seka,Ethiopia,Coffeearabica
+1520,36.8151808,8.4297032,Limu seka,Ethiopia,Coffeearabica
+1521,36.8123558,8.4280178,Limu seka,Ethiopia,Coffeearabica
+1522,36.8131769,8.4246383,Limu seka,Ethiopia,Coffeearabica
+1523,36.8139328,8.4225104,Limu seka,Ethiopia,Coffeearabica
+1524,36.8137263,8.4199389,Limu seka,Ethiopia,Coffeearabica
+1525,36.813905,8.4174805,Limu seka,Ethiopia,Coffeearabica
+1526,36.8141616,8.415583,Limu seka,Ethiopia,Coffeearabica
+1527,36.8152888,8.4139065,Limu seka,Ethiopia,Coffeearabica
+1528,36.8157325,8.4113026,Limu seka,Ethiopia,Coffeearabica
+1529,36.8153413,8.4174231,Limu seka,Ethiopia,Coffeearabica
+1530,36.8153057,8.4216269,Limu seka,Ethiopia,Coffeearabica
+1531,36.8182042,8.4222673,Limu seka,Ethiopia,Coffeearabica
+1532,36.8203913,8.4207822,Limu seka,Ethiopia,Coffeearabica
+1533,36.8223008,8.4196319,Limu seka,Ethiopia,Coffeearabica
+1534,36.8242999,8.4174979,Limu seka,Ethiopia,Coffeearabica
+1535,36.825358,8.4172367,Limu seka,Ethiopia,Coffeearabica
+1536,36.8259053,8.4179883,Limu seka,Ethiopia,Coffeearabica
+1537,36.8252333,8.420565,Limu seka,Ethiopia,Coffeearabica
+1538,36.8229597,8.4228173,Limu seka,Ethiopia,Coffeearabica
+1539,36.8228582,8.424488,Limu seka,Ethiopia,Coffeearabica
+1540,36.8159621,8.4279552,Limu seka,Ethiopia,Coffeearabica
+1541,36.8158631,8.4294356,Limu seka,Ethiopia,Coffeearabica
+1542,36.8289389,8.4340949,Limu seka,Ethiopia,Coffeearabica
+1543,36.8435466,8.2018242,Limu seka,Ethiopia,Coffeearabica
+1544,36.8446859,8.2016709,Limu seka,Ethiopia,Coffeearabica
+1545,36.8466921,8.2010446,Limu seka,Ethiopia,Coffeearabica
+1546,36.8485911,8.2007573,Limu seka,Ethiopia,Coffeearabica
+1547,36.8504585,8.1993042,Limu seka,Ethiopia,Coffeearabica
+1548,36.8520981,8.1976541,Limu seka,Ethiopia,Coffeearabica
+1549,36.8535722,8.1958281,Limu seka,Ethiopia,Coffeearabica
+1550,36.8553098,8.1958622,Limu seka,Ethiopia,Coffeearabica
+1551,36.8590215,8.1968171,Limu seka,Ethiopia,Coffeearabica
+1552,36.8622862,8.196909,Limu seka,Ethiopia,Coffeearabica
+1553,36.8650653,8.1962773,Limu seka,Ethiopia,Coffeearabica
+1554,36.8704439,8.1960559,Limu seka,Ethiopia,Coffeearabica
+1555,36.8719083,8.1956695,Limu seka,Ethiopia,Coffeearabica
+1556,36.873395,8.1994575,Limu seka,Ethiopia,Coffeearabica
+1557,36.868228,8.1995446,Limu seka,Ethiopia,Coffeearabica
+1558,36.8635478,8.200021,Limu seka,Ethiopia,Coffeearabica
+1559,36.8590477,8.1998436,Limu seka,Ethiopia,Coffeearabica
+1560,36.8564867,8.1995034,Limu seka,Ethiopia,Coffeearabica
+1561,36.8536187,8.1990322,Limu seka,Ethiopia,Coffeearabica
+1562,36.8459224,8.2021618,Limu seka,Ethiopia,Coffeearabica
+1563,36.8447376,8.2028486,Limu seka,Ethiopia,Coffeearabica
+1564,36.8435171,8.2042218,Limu seka,Ethiopia,Coffeearabica
+1565,36.8458394,8.2219224,Limu seka,Ethiopia,Coffeearabica
+1566,36.857188,8.2443744,Limu seka,Ethiopia,Coffeearabica
+1567,36.94534,8.458807,Limu seka,Ethiopia,Coffeearabica
+1568,36.9467735,8.4598976,Limu seka,Ethiopia,Coffeearabica
+1569,36.9480524,8.4632329,Limu seka,Ethiopia,Coffeearabica
+1570,36.9475468,8.4662968,Limu seka,Ethiopia,Coffeearabica
+1571,36.9454557,8.4673065,Limu seka,Ethiopia,Coffeearabica
+1572,36.9436506,8.467776,Limu seka,Ethiopia,Coffeearabica
+1573,36.9415221,8.4680158,Limu seka,Ethiopia,Coffeearabica
+1574,36.9397824,8.468214,Limu seka,Ethiopia,Coffeearabica
+1575,36.9381434,8.4683737,Limu seka,Ethiopia,Coffeearabica
+1576,36.9359126,8.4668316,Limu seka,Ethiopia,Coffeearabica
+1577,36.9338725,8.4632956,Limu seka,Ethiopia,Coffeearabica
+1578,36.9322201,8.4612346,Limu seka,Ethiopia,Coffeearabica
+1579,36.9297953,8.4621394,Limu seka,Ethiopia,Coffeearabica
+1580,36.9277208,8.4649297,Limu seka,Ethiopia,Coffeearabica
+1581,36.9274203,8.4633574,Limu seka,Ethiopia,Coffeearabica
+1582,36.9248156,8.461694,Limu seka,Ethiopia,Coffeearabica
+1583,36.9256127,8.4581469,Limu seka,Ethiopia,Coffeearabica
+1584,36.9241644,8.4555971,Limu seka,Ethiopia,Coffeearabica
+1585,36.9258983,8.4532267,Limu seka,Ethiopia,Coffeearabica
+1586,36.9289039,8.4518702,Limu seka,Ethiopia,Coffeearabica
+1587,36.9309636,8.4521371,Limu seka,Ethiopia,Coffeearabica
+1588,36.9332633,8.453953,Limu seka,Ethiopia,Coffeearabica
+1589,36.9366935,8.4562214,Limu seka,Ethiopia,Coffeearabica
+1590,36.8139065,8.4312865,Limu seka,Ethiopia,Coffeearabica
+1591,36.8107324,8.4318316,Limu seka,Ethiopia,Coffeearabica
+1592,36.8072541,8.4327862,Limu seka,Ethiopia,Coffeearabica
+1593,36.8034002,8.4343218,Limu seka,Ethiopia,Coffeearabica
+1594,36.8009183,8.436444,Limu seka,Ethiopia,Coffeearabica
+1595,36.7999364,8.4380467,Limu seka,Ethiopia,Coffeearabica
+1596,36.798587,8.4382928,Limu seka,Ethiopia,Coffeearabica
+1597,36.7993042,8.4397423,Limu seka,Ethiopia,Coffeearabica
+1598,36.8014293,8.4404369,Limu seka,Ethiopia,Coffeearabica
+1599,36.8028561,8.4394031,Limu seka,Ethiopia,Coffeearabica
+1600,36.8109428,8.4302998,Limu seka,Ethiopia,Coffeearabica
+1601,36.8068231,8.4286531,Limu seka,Ethiopia,Coffeearabica
+1602,36.8039583,8.430862,Limu seka,Ethiopia,Coffeearabica
+1603,36.7993508,8.4302769,Limu seka,Ethiopia,Coffeearabica
+1604,36.7800903,8.4280463,Limu seka,Ethiopia,Coffeearabica
+1605,36.7819076,8.4288716,Limu seka,Ethiopia,Coffeearabica
+1606,36.7852897,8.4296906,Limu seka,Ethiopia,Coffeearabica
+1607,36.788181,8.4290762,Limu seka,Ethiopia,Coffeearabica
+1608,36.7892825,8.4280036,Limu seka,Ethiopia,Coffeearabica
+1609,36.7914489,8.4282854,Limu seka,Ethiopia,Coffeearabica
+1610,36.7929231,8.4264849,Limu seka,Ethiopia,Coffeearabica
+1611,36.7945346,8.4271372,Limu seka,Ethiopia,Coffeearabica
+1612,36.7963393,8.4257382,Limu seka,Ethiopia,Coffeearabica
+1613,36.7965736,8.4272502,Limu seka,Ethiopia,Coffeearabica
+1614,36.8082012,8.4256636,Limu seka,Ethiopia,Coffeearabica
+1615,36.9219697,8.1415042,Limu seka,Ethiopia,Coffeearabica
+1616,36.9224962,8.1445331,Limu seka,Ethiopia,Coffeearabica
+1617,36.9237453,8.1487638,Limu seka,Ethiopia,Coffeearabica
+1618,36.9229214,8.1553003,Limu seka,Ethiopia,Coffeearabica
+1619,36.9256473,8.1596175,Limu seka,Ethiopia,Coffeearabica
+1620,36.9256662,8.1638312,Limu seka,Ethiopia,Coffeearabica
+1621,36.9260231,8.1730673,Limu seka,Ethiopia,Coffeearabica
+1622,36.9290372,8.1843605,Limu seka,Ethiopia,Coffeearabica
+1623,36.9381351,8.1896137,Limu seka,Ethiopia,Coffeearabica
+1624,36.9299318,8.1525958,Limu seka,Ethiopia,Coffeearabica
+1625,36.909184,8.4259111,Limu seka,Ethiopia,Coffeearabica
+1626,36.9478007,8.4695608,Limu seka,Ethiopia,Coffeearabica
+1627,36.9493549,8.4631759,Limu seka,Ethiopia,Coffeearabica
+1628,36.9389482,8.4561936,Limu seka,Ethiopia,Coffeearabica
+1629,36.9381647,8.4561679,Limu seka,Ethiopia,Coffeearabica
+1630,36.9345559,8.4551488,Limu seka,Ethiopia,Coffeearabica
+1631,36.9303222,8.4512077,Limu seka,Ethiopia,Coffeearabica
+1632,36.9233733,8.4341879,Limu seka,Ethiopia,Coffeearabica
+1633,36.927321,8.151851,Limu seka,Ethiopia,Coffeearabica
+1634,36.9280912,8.1518744,Limu seka,Ethiopia,Coffeearabica
+1635,36.929697,8.1516591,Limu seka,Ethiopia,Coffeearabica
+1636,36.9307671,8.1504971,Limu seka,Ethiopia,Coffeearabica
+1637,36.9317998,8.1503674,Limu seka,Ethiopia,Coffeearabica
+1638,36.9325673,8.1496159,Limu seka,Ethiopia,Coffeearabica
+1639,36.9322045,8.149242,Limu seka,Ethiopia,Coffeearabica
+1640,36.9333057,8.1478342,Limu seka,Ethiopia,Coffeearabica
+1641,36.9370061,8.1478849,Limu seka,Ethiopia,Coffeearabica
+1642,36.9379095,8.1486228,Limu seka,Ethiopia,Coffeearabica
+1643,36.9381495,8.1494386,Limu seka,Ethiopia,Coffeearabica
+1644,36.9385655,8.1503565,Limu seka,Ethiopia,Coffeearabica
+1645,36.938624,8.1509352,Limu seka,Ethiopia,Coffeearabica
+1646,36.9389706,8.1519947,Limu seka,Ethiopia,Coffeearabica
+1647,36.9393037,8.1532992,Limu seka,Ethiopia,Coffeearabica
+1648,36.9389953,8.1543972,Limu seka,Ethiopia,Coffeearabica
+1649,36.9381632,8.1557982,Limu seka,Ethiopia,Coffeearabica
+1650,36.9373903,8.1562514,Limu seka,Ethiopia,Coffeearabica
+1651,36.9352167,8.1558898,Limu seka,Ethiopia,Coffeearabica
+1652,36.9333204,8.1550911,Limu seka,Ethiopia,Coffeearabica
+1653,36.9045175,8.4188489,Limu seka,Ethiopia,Coffeearabica
+1654,36.9084212,8.4226004,Limu seka,Ethiopia,Coffeearabica
+1655,36.9091753,8.4257114,Limu seka,Ethiopia,Coffeearabica
+1656,36.9194262,8.431116,Limu seka,Ethiopia,Coffeearabica
+1657,36.9214865,8.4331914,Limu seka,Ethiopia,Coffeearabica
+1658,36.9214396,8.4359176,Limu seka,Ethiopia,Coffeearabica
+1659,36.9230294,8.4369998,Limu seka,Ethiopia,Coffeearabica
+1660,36.9241363,8.4393062,Limu seka,Ethiopia,Coffeearabica
+1661,36.923878,8.440745,Limu seka,Ethiopia,Coffeearabica
+1662,36.9269541,8.4395656,Limu seka,Ethiopia,Coffeearabica
+1663,36.9290738,8.43971,Limu seka,Ethiopia,Coffeearabica
+1664,36.9298082,8.4380719,Limu seka,Ethiopia,Coffeearabica
+1665,36.9326338,8.4372107,Limu seka,Ethiopia,Coffeearabica
+1666,36.9332439,8.4400819,Limu seka,Ethiopia,Coffeearabica
+1667,36.9358022,8.4398583,Limu seka,Ethiopia,Coffeearabica
+1668,36.9364668,8.4433754,Limu seka,Ethiopia,Coffeearabica
+1669,36.9303951,8.4443628,Limu seka,Ethiopia,Coffeearabica
+1670,36.9319645,8.4471619,Limu seka,Ethiopia,Coffeearabica
+1671,36.9336997,8.4483473,Limu seka,Ethiopia,Coffeearabica
+1672,36.9351689,8.4508893,Limu seka,Ethiopia,Coffeearabica
+1673,36.9339153,8.2721963,Limu seka,Ethiopia,Coffeearabica
+1674,36.9376307,8.2909104,Limu seka,Ethiopia,Coffeearabica
+1675,36.9361787,8.2891824,Limu seka,Ethiopia,Coffeearabica
+1676,36.9351712,8.2885319,Limu seka,Ethiopia,Coffeearabica
+1677,36.9348979,8.287646,Limu seka,Ethiopia,Coffeearabica
+1678,36.9356597,8.2857559,Limu seka,Ethiopia,Coffeearabica
+1679,36.934908,8.2831535,Limu seka,Ethiopia,Coffeearabica
+1680,36.9347867,8.2785857,Limu seka,Ethiopia,Coffeearabica
+1681,36.9331842,8.2750641,Limu seka,Ethiopia,Coffeearabica
+1682,36.9233576,8.2626743,Limu seka,Ethiopia,Coffeearabica
+1683,36.9072264,8.2632953,Limu seka,Ethiopia,Coffeearabica
+1684,36.8928846,8.2469181,Limu seka,Ethiopia,Coffeearabica
+1685,36.8625564,8.2438067,Limu seka,Ethiopia,Coffeearabica
+1686,36.8498118,8.2327608,Limu seka,Ethiopia,Coffeearabica
+1687,36.8478345,8.2232223,Limu seka,Ethiopia,Coffeearabica
+1688,36.8454285,8.2173877,Limu seka,Ethiopia,Coffeearabica
+1689,36.8474693,8.2151461,Limu seka,Ethiopia,Coffeearabica
+1690,36.8502045,8.2165112,Limu seka,Ethiopia,Coffeearabica
+1691,36.8441448,8.2140811,Limu seka,Ethiopia,Coffeearabica
+1692,36.8435458,8.2119702,Limu seka,Ethiopia,Coffeearabica
+1693,36.8436907,8.2041781,Limu seka,Ethiopia,Coffeearabica
+1694,36.84442,8.2015923,Limu seka,Ethiopia,Coffeearabica
+1695,36.8468465,8.2007725,Limu seka,Ethiopia,Coffeearabica
+1696,36.8493612,8.1984467,Limu seka,Ethiopia,Coffeearabica
+1697,36.8508025,8.1976435,Limu seka,Ethiopia,Coffeearabica
+1698,36.851541,8.1957782,Limu seka,Ethiopia,Coffeearabica
+1699,36.8502573,8.1953313,Limu seka,Ethiopia,Coffeearabica
+1700,36.8489483,8.1952868,Limu seka,Ethiopia,Coffeearabica
+1701,36.8480519,8.1963571,Limu seka,Ethiopia,Coffeearabica
+1702,36.8472482,8.1939913,Limu seka,Ethiopia,Coffeearabica
+1703,36.8498681,8.1901869,Limu seka,Ethiopia,Coffeearabica
+1704,36.8475535,8.1918077,Limu seka,Ethiopia,Coffeearabica
+1705,36.8435179,8.1909941,Limu seka,Ethiopia,Coffeearabica
+1706,36.8430752,8.1863519,Limu seka,Ethiopia,Coffeearabica
+1707,36.8438533,8.1936649,Limu seka,Ethiopia,Coffeearabica
+1708,36.8441381,8.1964228,Limu seka,Ethiopia,Coffeearabica
+1709,36.8431565,8.2004839,Limu seka,Ethiopia,Coffeearabica
+1710,36.9487665,8.3087181,Limu seka,Ethiopia,Coffeearabica
+1711,36.9438095,8.310539,Limu seka,Ethiopia,Coffeearabica
+1712,36.938066,8.3080318,Limu seka,Ethiopia,Coffeearabica
+1713,36.934308,8.307348,Limu seka,Ethiopia,Coffeearabica
+1714,36.9346018,8.3100323,Limu seka,Ethiopia,Coffeearabica
+1715,36.9386608,8.3156458,Limu seka,Ethiopia,Coffeearabica
+1716,36.9419384,8.3230825,Limu seka,Ethiopia,Coffeearabica
+1717,36.9396684,8.3268753,Limu seka,Ethiopia,Coffeearabica
+1718,36.9373242,8.3302681,Limu seka,Ethiopia,Coffeearabica
+1719,36.9393467,8.3333219,Limu seka,Ethiopia,Coffeearabica
+1720,36.9350116,8.3351254,Limu seka,Ethiopia,Coffeearabica
+1721,36.9320879,8.3339665,Limu seka,Ethiopia,Coffeearabica
+1722,36.9241043,8.3325895,Limu seka,Ethiopia,Coffeearabica
+1723,36.922598,8.3369193,Limu seka,Ethiopia,Coffeearabica
+1724,36.9217026,8.3399927,Limu seka,Ethiopia,Coffeearabica
+1725,36.9212063,8.3456912,Limu seka,Ethiopia,Coffeearabica
+1726,36.9182232,8.3538585,Limu seka,Ethiopia,Coffeearabica
+1727,36.9341369,8.2680616,Limu seka,Ethiopia,Coffeearabica
+1728,36.8571531,7.9548095,Limu seka,Ethiopia,Coffeearabica
+1729,36.95756111,8.285783333,Limu seka,Ethiopia,Coffeearabica
+1730,36.95144167,8.286025,Limu seka,Ethiopia,Coffeearabica
+1731,36.9354,8.152608333,Limu seka,Ethiopia,Coffeearabica
+1732,36.93934444,8.150041667,Limu seka,Ethiopia,Coffeearabica
+1733,36.93198333,8.157477778,Limu seka,Ethiopia,Coffeearabica
+1734,36.92931111,8.158355556,Limu seka,Ethiopia,Coffeearabica
+1735,36.86721667,8.187075,Limu seka,Ethiopia,Coffeearabica
+1736,36.99295278,8.364455556,Limu seka,Ethiopia,Coffeearabica
+1737,36.98359444,8.345288889,Limu seka,Ethiopia,Coffeearabica
+1738,36.99458333,8.341280556,Limu seka,Ethiopia,Coffeearabica
+1739,37.00636389,8.3464,Limu seka,Ethiopia,Coffeearabica
+1740,36.97887222,8.315880556,Limu seka,Ethiopia,Coffeearabica
+1741,36.96318611,8.317897222,Limu seka,Ethiopia,Coffeearabica
+1742,36.95688889,8.319741667,Limu seka,Ethiopia,Coffeearabica
+1743,36.95263889,8.316966667,Limu seka,Ethiopia,Coffeearabica
+1744,36.94650278,8.326761111,Limu seka,Ethiopia,Coffeearabica
+1745,36.98153889,8.196269444,Limu seka,Ethiopia,Coffeearabica
+1746,36.97106667,8.201669444,Limu seka,Ethiopia,Coffeearabica
+1747,36.96324167,8.178286111,Limu seka,Ethiopia,Coffeearabica
+1748,36.95436111,8.189019444,Limu seka,Ethiopia,Coffeearabica
+1749,37.02563333,8.572622222,Limu seka,Ethiopia,Coffeearabica
+1750,37.02294722,8.569091667,Limu seka,Ethiopia,Coffeearabica
+1751,37.00812222,8.600636111,Limu seka,Ethiopia,Coffeearabica
+1752,37.01315556,8.573580556,Limu seka,Ethiopia,Coffeearabica
+1753,37.11,8.716,Limu seka,Ethiopia,Coffeearabica
+1754,37.142,8.562,Limu seka,Ethiopia,Coffeearabica
+1755,37.152,8.44,Limu seka,Ethiopia,Coffeearabica
+1756,37.854,8.512,Limu seka,Ethiopia,Coffeearabica
+1757,36.071,8.355,Limu seka,Ethiopia,Coffeearabica
+1758,36.957,8.333,Limu seka,Ethiopia,Coffeearabica
+1759,37.919,8.181,Limu seka,Ethiopia,Coffeearabica
+1760,37.005,8.204,Limu seka,Ethiopia,Coffeearabica
+1761,37.716,8.175,Limu seka,Ethiopia,Coffeearabica
+1762,37.716,8.044,Limu seka,Ethiopia,Coffeearabica
+1763,36.84,8.011,Limu seka,Ethiopia,Coffeearabica
+1764,37.06,8.008,Limu seka,Ethiopia,Coffeearabica
+1765,37.16,8.065,Limu seka,Ethiopia,Coffeearabica
+1766,36.507,7.937,Limu seka,Ethiopia,Coffeearabica
+1767,36.699,7.917,Limu seka,Ethiopia,Coffeearabica
+1768,36.912,7.825,Limu seka,Ethiopia,Coffeearabica
+1769,37.115,7.895,Limu seka,Ethiopia,Coffeearabica
+1770,37.127,7.793,Limu seka,Ethiopia,Coffeearabica
+1771,37.006,7.656,Limu seka,Ethiopia,Coffeearabica
+1772,36.676,7.649,Limu seka,Ethiopia,Coffeearabica
+1773,36.54,7.661,Limu seka,Ethiopia,Coffeearabica
+1774,36.377,7.656,Limu seka,Ethiopia,Coffeearabica
+1775,36.155,7.726,Limu seka,Ethiopia,Coffeearabica
+1776,35.777,7.932,Limu seka,Ethiopia,Coffeearabica
+1777,35.611,7.97,Limu seka,Ethiopia,Coffeearabica
+1778,35.493,7.994,Limu seka,Ethiopia,Coffeearabica
+1779,35.578,8.141,Limu seka,Ethiopia,Coffeearabica
+1780,35.925,8.33,Limu seka,Ethiopia,Coffeearabica
+1781,36.078,8.264,Limu seka,Ethiopia,Coffeearabica
+1782,36.24,8.261,Limu seka,Ethiopia,Coffeearabica
+1783,36.382,8.354,Limu seka,Ethiopia,Coffeearabica
+1784,36.465,8.432,Limu seka,Ethiopia,Coffeearabica
+1785,36.254,8.783,Limu seka,Ethiopia,Coffeearabica
+1786,36.034,8.421,Limu seka,Ethiopia,Coffeearabica
+1787,36.238,8.97,Limu seka,Ethiopia,Coffeearabica
+1788,36.78593056,8.328797222,Limu seka,Ethiopia,Coffeearabica
+1789,35.8002883,8.321981,Yayu,Ethiopia,Coffeearabica
+1790,35.801955,8.3251811,Yayu,Ethiopia,Coffeearabica
+1791,35.7783371,8.3395767,Yayu,Ethiopia,Coffeearabica
+1792,35.7780325,8.3390299,Yayu,Ethiopia,Coffeearabica
+1793,35.7781787,8.3380264,Yayu,Ethiopia,Coffeearabica
+1794,35.7776231,8.3373191,Yayu,Ethiopia,Coffeearabica
+1795,35.7770285,8.3365444,Yayu,Ethiopia,Coffeearabica
+1796,35.7763372,8.3356135,Yayu,Ethiopia,Coffeearabica
+1797,35.7763009,8.3336462,Yayu,Ethiopia,Coffeearabica
+1798,35.7780774,8.3336964,Yayu,Ethiopia,Coffeearabica
+1799,35.7794767,8.3332373,Yayu,Ethiopia,Coffeearabica
+1800,35.7812245,8.332181,Yayu,Ethiopia,Coffeearabica
+1801,35.7819705,8.3311197,Yayu,Ethiopia,Coffeearabica
+1802,35.7831337,8.3305167,Yayu,Ethiopia,Coffeearabica
+1803,35.7839057,8.3295293,Yayu,Ethiopia,Coffeearabica
+1804,35.7857438,8.3290119,Yayu,Ethiopia,Coffeearabica
+1805,35.7885158,8.3286404,Yayu,Ethiopia,Coffeearabica
+1806,35.7904788,8.3300944,Yayu,Ethiopia,Coffeearabica
+1807,35.7914624,8.3327004,Yayu,Ethiopia,Coffeearabica
+1808,35.7928262,8.3342685,Yayu,Ethiopia,Coffeearabica
+1809,35.8013372,8.3218351,Yayu,Ethiopia,Coffeearabica
+1810,35.80135,8.3252466,Yayu,Ethiopia,Coffeearabica
+1811,35.8020623,8.3274782,Yayu,Ethiopia,Coffeearabica
+1812,35.8025494,8.3312062,Yayu,Ethiopia,Coffeearabica
+1813,35.7978884,8.3513604,Yayu,Ethiopia,Coffeearabica
+1814,35.8021084,8.3646045,Yayu,Ethiopia,Coffeearabica
+1815,35.7993529,8.3742556,Yayu,Ethiopia,Coffeearabica
+1816,35.8038619,8.3668418,Yayu,Ethiopia,Coffeearabica
+1817,35.8049639,8.3677516,Yayu,Ethiopia,Coffeearabica
+1818,35.8000971,8.3631767,Yayu,Ethiopia,Coffeearabica
+1819,35.7973796,8.3637553,Yayu,Ethiopia,Coffeearabica
+1820,35.7957087,8.3642905,Yayu,Ethiopia,Coffeearabica
+1821,35.7942008,8.3666836,Yayu,Ethiopia,Coffeearabica
+1822,35.7916933,8.3683479,Yayu,Ethiopia,Coffeearabica
+1823,35.7907871,8.3702293,Yayu,Ethiopia,Coffeearabica
+1824,35.7951568,8.3632113,Yayu,Ethiopia,Coffeearabica
+1825,35.7957451,8.3604706,Yayu,Ethiopia,Coffeearabica
+1826,35.7943479,8.3572451,Yayu,Ethiopia,Coffeearabica
+1827,35.7974513,8.3583537,Yayu,Ethiopia,Coffeearabica
+1828,35.7980871,8.3598247,Yayu,Ethiopia,Coffeearabica
+1829,35.7995902,8.3534124,Yayu,Ethiopia,Coffeearabica
+1830,35.8035555,8.3474637,Yayu,Ethiopia,Coffeearabica
+1831,35.8044838,8.3516003,Yayu,Ethiopia,Coffeearabica
+1832,35.8048091,8.3557575,Yayu,Ethiopia,Coffeearabica
+1833,35.80563,8.3596058,Yayu,Ethiopia,Coffeearabica
+1834,35.8066483,8.3597521,Yayu,Ethiopia,Coffeearabica
+1835,35.8084162,8.3577869,Yayu,Ethiopia,Coffeearabica
+1836,35.8075302,8.3571212,Yayu,Ethiopia,Coffeearabica
+1837,35.80597,8.3543733,Yayu,Ethiopia,Coffeearabica
+1838,35.807386,8.3525397,Yayu,Ethiopia,Coffeearabica
+1839,35.8477956,8.3602397,Yayu,Ethiopia,Coffeearabica
+1840,35.845807,8.345784,Yayu,Ethiopia,Coffeearabica
+1841,35.8477857,8.3449281,Yayu,Ethiopia,Coffeearabica
+1842,35.7861444,8.3011301,Yayu,Ethiopia,Coffeearabica
+1843,35.8502904,8.372507,Yayu,Ethiopia,Coffeearabica
+1844,35.852669,8.3733634,Yayu,Ethiopia,Coffeearabica
+1845,35.854787,8.3752019,Yayu,Ethiopia,Coffeearabica
+1846,35.8561392,8.377327,Yayu,Ethiopia,Coffeearabica
+1847,35.8553486,8.3791377,Yayu,Ethiopia,Coffeearabica
+1848,35.8547483,8.3804802,Yayu,Ethiopia,Coffeearabica
+1849,35.8545849,8.3796645,Yayu,Ethiopia,Coffeearabica
+1850,35.8519398,8.3780101,Yayu,Ethiopia,Coffeearabica
+1851,35.8513233,8.377146,Yayu,Ethiopia,Coffeearabica
+1852,35.8494535,8.3743318,Yayu,Ethiopia,Coffeearabica
+1853,35.8482107,8.3757482,Yayu,Ethiopia,Coffeearabica
+1854,35.8478886,8.377614,Yayu,Ethiopia,Coffeearabica
+1855,35.8468377,8.3794016,Yayu,Ethiopia,Coffeearabica
+1856,35.8457819,8.3808669,Yayu,Ethiopia,Coffeearabica
+1857,35.8440165,8.379941,Yayu,Ethiopia,Coffeearabica
+1858,35.8421656,8.3788065,Yayu,Ethiopia,Coffeearabica
+1859,35.8416095,8.3803437,Yayu,Ethiopia,Coffeearabica
+1860,35.8405233,8.377327,Yayu,Ethiopia,Coffeearabica
+1861,35.8388927,8.37921,Yayu,Ethiopia,Coffeearabica
+1862,35.8389014,8.3781348,Yayu,Ethiopia,Coffeearabica
+1863,35.8384789,8.3772206,Yayu,Ethiopia,Coffeearabica
+1864,35.8406419,8.375008,Yayu,Ethiopia,Coffeearabica
+1865,35.8409462,8.3731903,Yayu,Ethiopia,Coffeearabica
+1866,35.8443953,8.3726086,Yayu,Ethiopia,Coffeearabica
+1867,35.846172,8.3732572,Yayu,Ethiopia,Coffeearabica
+1868,35.8348612,8.3448417,Yayu,Ethiopia,Coffeearabica
+1869,35.8366458,8.3430605,Yayu,Ethiopia,Coffeearabica
+1870,35.8434404,8.3454752,Yayu,Ethiopia,Coffeearabica
+1871,35.8505571,8.3617675,Yayu,Ethiopia,Coffeearabica
+1872,35.8484559,8.3615804,Yayu,Ethiopia,Coffeearabica
+1873,35.8458372,8.3622282,Yayu,Ethiopia,Coffeearabica
+1874,35.8450801,8.3613249,Yayu,Ethiopia,Coffeearabica
+1875,35.8433242,8.3595513,Yayu,Ethiopia,Coffeearabica
+1876,35.8420644,8.3577855,Yayu,Ethiopia,Coffeearabica
+1877,35.8411059,8.3555935,Yayu,Ethiopia,Coffeearabica
+1878,35.838483,8.3528799,Yayu,Ethiopia,Coffeearabica
+1879,35.835883,8.3509987,Yayu,Ethiopia,Coffeearabica
+1880,35.8321567,8.3490514,Yayu,Ethiopia,Coffeearabica
+1881,35.8307288,8.3476399,Yayu,Ethiopia,Coffeearabica
+1882,35.8279402,8.3471962,Yayu,Ethiopia,Coffeearabica
+1883,35.8277984,8.3602202,Yayu,Ethiopia,Coffeearabica
+1884,35.8275113,8.3585676,Yayu,Ethiopia,Coffeearabica
+1885,35.8279283,8.3574995,Yayu,Ethiopia,Coffeearabica
+1886,35.8277531,8.3556476,Yayu,Ethiopia,Coffeearabica
+1887,35.8266811,8.3541043,Yayu,Ethiopia,Coffeearabica
+1888,35.8257077,8.3532947,Yayu,Ethiopia,Coffeearabica
+1889,35.8278235,8.3512872,Yayu,Ethiopia,Coffeearabica
+1890,35.827628,8.3500575,Yayu,Ethiopia,Coffeearabica
+1891,35.8279702,8.3452227,Yayu,Ethiopia,Coffeearabica
+1892,35.8274208,8.3435754,Yayu,Ethiopia,Coffeearabica
+1893,35.8004568,8.3198831,Yayu,Ethiopia,Coffeearabica
+1894,35.8033384,8.3186524,Yayu,Ethiopia,Coffeearabica
+1895,35.8058463,8.3180189,Yayu,Ethiopia,Coffeearabica
+1896,35.8078013,8.3161947,Yayu,Ethiopia,Coffeearabica
+1897,35.8077746,8.3131137,Yayu,Ethiopia,Coffeearabica
+1898,35.8070017,8.3104907,Yayu,Ethiopia,Coffeearabica
+1899,35.8087617,8.3106142,Yayu,Ethiopia,Coffeearabica
+1900,35.810599,8.3114701,Yayu,Ethiopia,Coffeearabica
+1901,35.8107603,8.3123443,Yayu,Ethiopia,Coffeearabica
+1902,35.8078564,8.3089751,Yayu,Ethiopia,Coffeearabica
+1903,35.8075345,8.3064427,Yayu,Ethiopia,Coffeearabica
+1904,35.8076792,8.3040524,Yayu,Ethiopia,Coffeearabica
+1905,35.8051127,8.3031042,Yayu,Ethiopia,Coffeearabica
+1906,35.8034496,8.3040507,Yayu,Ethiopia,Coffeearabica
+1907,35.8029654,8.3055683,Yayu,Ethiopia,Coffeearabica
+1908,35.8045913,8.3078411,Yayu,Ethiopia,Coffeearabica
+1909,35.8001899,8.303233,Yayu,Ethiopia,Coffeearabica
+1910,35.800566,8.3009758,Yayu,Ethiopia,Coffeearabica
+1911,35.8039202,8.3002522,Yayu,Ethiopia,Coffeearabica
+1912,35.8038525,8.2964711,Yayu,Ethiopia,Coffeearabica
+1913,35.8010508,8.2959845,Yayu,Ethiopia,Coffeearabica
+1914,35.7972481,8.2963707,Yayu,Ethiopia,Coffeearabica
+1915,35.7928878,8.2948683,Yayu,Ethiopia,Coffeearabica
+1916,35.7908763,8.2969441,Yayu,Ethiopia,Coffeearabica
+1917,35.7918827,8.3011255,Yayu,Ethiopia,Coffeearabica
+1918,35.7907161,8.3015996,Yayu,Ethiopia,Coffeearabica
+1919,35.7931144,8.304502,Yayu,Ethiopia,Coffeearabica
+1920,35.7793967,8.3293133,Yayu,Ethiopia,Coffeearabica
+1921,35.7808557,8.3257507,Yayu,Ethiopia,Coffeearabica
+1922,35.7805958,8.3236448,Yayu,Ethiopia,Coffeearabica
+1923,35.779675,8.3209367,Yayu,Ethiopia,Coffeearabica
+1924,35.7799869,8.3173834,Yayu,Ethiopia,Coffeearabica
+1925,35.7794657,8.3147921,Yayu,Ethiopia,Coffeearabica
+1926,35.7795563,8.3130989,Yayu,Ethiopia,Coffeearabica
+1927,35.7808639,8.3114498,Yayu,Ethiopia,Coffeearabica
+1928,35.7815999,8.3101257,Yayu,Ethiopia,Coffeearabica
+1929,35.7822356,8.3077087,Yayu,Ethiopia,Coffeearabica
+1930,35.7824285,8.3045736,Yayu,Ethiopia,Coffeearabica
+1931,35.7834908,8.3025936,Yayu,Ethiopia,Coffeearabica
+1932,35.7840386,8.3007527,Yayu,Ethiopia,Coffeearabica
+1933,35.7854561,8.2995736,Yayu,Ethiopia,Coffeearabica
+1934,35.7868695,8.2995406,Yayu,Ethiopia,Coffeearabica
+1935,35.7869245,8.3017255,Yayu,Ethiopia,Coffeearabica
+1936,35.7875639,8.2926072,Yayu,Ethiopia,Coffeearabica
+1937,35.7871171,8.2912499,Yayu,Ethiopia,Coffeearabica
+1938,35.786331,8.2891804,Yayu,Ethiopia,Coffeearabica
+1939,35.7872926,8.2939477,Yayu,Ethiopia,Coffeearabica
+1940,35.7855371,8.2952008,Yayu,Ethiopia,Coffeearabica
+1941,35.7850073,8.2963753,Yayu,Ethiopia,Coffeearabica
+1942,35.7876563,8.2990975,Yayu,Ethiopia,Coffeearabica
+1943,35.7883677,8.3014088,Yayu,Ethiopia,Coffeearabica
+1944,35.8504003,8.3126362,Yayu,Ethiopia,Coffeearabica
+1945,35.8495054,8.3135551,Yayu,Ethiopia,Coffeearabica
+1946,35.8482428,8.3138172,Yayu,Ethiopia,Coffeearabica
+1947,35.8473059,8.3141302,Yayu,Ethiopia,Coffeearabica
+1948,35.8454491,8.313709,Yayu,Ethiopia,Coffeearabica
+1949,35.843571,8.3053894,Yayu,Ethiopia,Coffeearabica
+1950,35.843049,8.308592,Yayu,Ethiopia,Coffeearabica
+1951,35.8427061,8.3114741,Yayu,Ethiopia,Coffeearabica
+1952,35.8436155,8.3135564,Yayu,Ethiopia,Coffeearabica
+1953,35.8440823,8.3153824,Yayu,Ethiopia,Coffeearabica
+1954,35.8387686,8.3136394,Yayu,Ethiopia,Coffeearabica
+1955,35.8357449,8.3153578,Yayu,Ethiopia,Coffeearabica
+1956,35.8370093,8.3154125,Yayu,Ethiopia,Coffeearabica
+1957,35.8390427,8.3158273,Yayu,Ethiopia,Coffeearabica
+1958,35.841475,8.3158201,Yayu,Ethiopia,Coffeearabica
+1959,35.8429087,8.3168803,Yayu,Ethiopia,Coffeearabica
+1960,35.8409656,8.3188916,Yayu,Ethiopia,Coffeearabica
+1961,35.8394125,8.3205025,Yayu,Ethiopia,Coffeearabica
+1962,35.8358828,8.3222648,Yayu,Ethiopia,Coffeearabica
+1963,35.8336062,8.3256602,Yayu,Ethiopia,Coffeearabica
+1964,35.8276964,8.3312678,Yayu,Ethiopia,Coffeearabica
+1965,35.8291861,8.3309113,Yayu,Ethiopia,Coffeearabica
+1966,35.8249315,8.3360776,Yayu,Ethiopia,Coffeearabica
+1967,35.8334106,8.3254088,Yayu,Ethiopia,Coffeearabica
+1968,35.8296788,8.3220134,Yayu,Ethiopia,Coffeearabica
+1969,35.8267572,8.3153672,Yayu,Ethiopia,Coffeearabica
+1970,35.8269459,8.317887,Yayu,Ethiopia,Coffeearabica
+1971,35.8253482,8.3195085,Yayu,Ethiopia,Coffeearabica
+1972,35.8237318,8.3206399,Yayu,Ethiopia,Coffeearabica
+1973,35.8213781,8.3220401,Yayu,Ethiopia,Coffeearabica
+1974,35.8194318,8.3227434,Yayu,Ethiopia,Coffeearabica
+1975,35.8171201,8.3216302,Yayu,Ethiopia,Coffeearabica
+1976,35.8166659,8.3181828,Yayu,Ethiopia,Coffeearabica
+1977,35.8167954,8.3160656,Yayu,Ethiopia,Coffeearabica
+1978,35.8151373,8.3147589,Yayu,Ethiopia,Coffeearabica
+1979,35.8148981,8.3180806,Yayu,Ethiopia,Coffeearabica
+1980,35.8184007,8.3228284,Yayu,Ethiopia,Coffeearabica
+1981,35.8218643,8.3258786,Yayu,Ethiopia,Coffeearabica
+1982,35.8228487,8.3268514,Yayu,Ethiopia,Coffeearabica
+1983,35.8250412,8.3262925,Yayu,Ethiopia,Coffeearabica
+1984,35.8270146,8.3300028,Yayu,Ethiopia,Coffeearabica
+1985,35.824912,8.3313732,Yayu,Ethiopia,Coffeearabica
+1986,35.8266493,8.3315178,Yayu,Ethiopia,Coffeearabica
+1987,35.8264751,8.3334549,Yayu,Ethiopia,Coffeearabica
+1988,35.8210445,8.3398285,Yayu,Ethiopia,Coffeearabica
+1989,35.8202125,8.3343918,Yayu,Ethiopia,Coffeearabica
+1990,36.011267,8.3760753,Yayu,Ethiopia,Coffeearabica
+1991,36.0208119,8.379021,Yayu,Ethiopia,Coffeearabica
+1992,36.0312138,8.3704035,Yayu,Ethiopia,Coffeearabica
+1993,36.0369263,8.3638145,Yayu,Ethiopia,Coffeearabica
+1994,36.0417297,8.3603008,Yayu,Ethiopia,Coffeearabica
+1995,36.0369598,8.3623738,Yayu,Ethiopia,Coffeearabica
+1996,36.0353858,8.3611814,Yayu,Ethiopia,Coffeearabica
+1997,36.0332895,8.3604419,Yayu,Ethiopia,Coffeearabica
+1998,36.0301518,8.3600555,Yayu,Ethiopia,Coffeearabica
+1999,36.0289335,8.3574296,Yayu,Ethiopia,Coffeearabica
+2000,36.0263411,8.357981,Yayu,Ethiopia,Coffeearabica
+2001,36.0250904,8.3599458,Yayu,Ethiopia,Coffeearabica
+2002,36.0220334,8.3590298,Yayu,Ethiopia,Coffeearabica
+2003,36.0186113,8.3578257,Yayu,Ethiopia,Coffeearabica
+2004,36.0183015,8.3561012,Yayu,Ethiopia,Coffeearabica
+2005,36.0174463,8.3533728,Yayu,Ethiopia,Coffeearabica
+2006,36.0161882,8.3517214,Yayu,Ethiopia,Coffeearabica
+2007,36.0157413,8.3548425,Yayu,Ethiopia,Coffeearabica
+2008,36.0137677,8.3562482,Yayu,Ethiopia,Coffeearabica
+2009,36.0145662,8.3589395,Yayu,Ethiopia,Coffeearabica
+2010,36.0161332,8.3627256,Yayu,Ethiopia,Coffeearabica
+2011,36.019283,8.3641222,Yayu,Ethiopia,Coffeearabica
+2012,36.0197019,8.3672142,Yayu,Ethiopia,Coffeearabica
+2013,36.0197861,8.3703524,Yayu,Ethiopia,Coffeearabica
+2014,36.014271,8.3708155,Yayu,Ethiopia,Coffeearabica
+2015,35.9974128,8.3837928,Yayu,Ethiopia,Coffeearabica
+2016,35.9817383,8.3882298,Yayu,Ethiopia,Coffeearabica
+2017,35.9781043,8.3833524,Yayu,Ethiopia,Coffeearabica
+2018,35.9697191,8.3821072,Yayu,Ethiopia,Coffeearabica
+2019,35.9553871,8.3793519,Yayu,Ethiopia,Coffeearabica
+2020,35.9444159,8.3748716,Yayu,Ethiopia,Coffeearabica
+2021,35.9367275,8.3735789,Yayu,Ethiopia,Coffeearabica
+2022,36.0016045,8.4034019,Yayu,Ethiopia,Coffeearabica
+2023,36.0023667,8.4023645,Yayu,Ethiopia,Coffeearabica
+2024,36.002374,8.4008912,Yayu,Ethiopia,Coffeearabica
+2025,36.001683,8.4001993,Yayu,Ethiopia,Coffeearabica
+2026,36.0013019,8.3990573,Yayu,Ethiopia,Coffeearabica
+2027,36.0022364,8.3986429,Yayu,Ethiopia,Coffeearabica
+2028,36.0040911,8.3969745,Yayu,Ethiopia,Coffeearabica
+2029,36.0030213,8.3960594,Yayu,Ethiopia,Coffeearabica
+2030,36.0030254,8.3945467,Yayu,Ethiopia,Coffeearabica
+2031,36.0024208,8.3925877,Yayu,Ethiopia,Coffeearabica
+2032,36.0005872,8.3908032,Yayu,Ethiopia,Coffeearabica
+2033,35.9990126,8.3925969,Yayu,Ethiopia,Coffeearabica
+2034,35.9992941,8.3947218,Yayu,Ethiopia,Coffeearabica
+2035,35.9988469,8.3959705,Yayu,Ethiopia,Coffeearabica
+2036,35.9978991,8.3899961,Yayu,Ethiopia,Coffeearabica
+2037,35.9963409,8.3858851,Yayu,Ethiopia,Coffeearabica
+2038,35.9914111,8.3865225,Yayu,Ethiopia,Coffeearabica
+2039,35.9816666,8.3881789,Yayu,Ethiopia,Coffeearabica
+2040,35.9663023,8.3814093,Yayu,Ethiopia,Coffeearabica
+2041,35.9572248,8.3809808,Yayu,Ethiopia,Coffeearabica
+2042,35.9386049,8.3726648,Yayu,Ethiopia,Coffeearabica
+2043,36.0052484,8.3106528,Yayu,Ethiopia,Coffeearabica
+2044,36.0037541,8.3103184,Yayu,Ethiopia,Coffeearabica
+2045,36.0013424,8.3101411,Yayu,Ethiopia,Coffeearabica
+2046,35.9992001,8.31184,Yayu,Ethiopia,Coffeearabica
+2047,35.9967217,8.3103283,Yayu,Ethiopia,Coffeearabica
+2048,35.9936692,8.3093062,Yayu,Ethiopia,Coffeearabica
+2049,35.9951806,8.3071063,Yayu,Ethiopia,Coffeearabica
+2050,35.9980074,8.3074585,Yayu,Ethiopia,Coffeearabica
+2051,35.9927926,8.3074039,Yayu,Ethiopia,Coffeearabica
+2052,35.9931839,8.3096976,Yayu,Ethiopia,Coffeearabica
+2053,35.9923922,8.3114736,Yayu,Ethiopia,Coffeearabica
+2054,35.9938354,8.3117117,Yayu,Ethiopia,Coffeearabica
+2055,35.996199,8.3125659,Yayu,Ethiopia,Coffeearabica
+2056,35.9995993,8.3135764,Yayu,Ethiopia,Coffeearabica
+2057,36.0010815,8.3126764,Yayu,Ethiopia,Coffeearabica
+2058,36.0020562,8.3129831,Yayu,Ethiopia,Coffeearabica
+2059,36.0039145,8.3139453,Yayu,Ethiopia,Coffeearabica
+2060,36.0037478,8.3124122,Yayu,Ethiopia,Coffeearabica
+2061,36.0047405,8.3108272,Yayu,Ethiopia,Coffeearabica
+2062,36.0051316,8.3125137,Yayu,Ethiopia,Coffeearabica
+2063,36.0107581,8.3115018,Yayu,Ethiopia,Coffeearabica
+2064,36.0126937,8.3099862,Yayu,Ethiopia,Coffeearabica
+2065,36.0141773,8.310985,Yayu,Ethiopia,Coffeearabica
+2066,36.0143115,8.3135382,Yayu,Ethiopia,Coffeearabica
+2067,36.016148,8.3167123,Yayu,Ethiopia,Coffeearabica
+2068,36.0180033,8.3182176,Yayu,Ethiopia,Coffeearabica
+2069,36.0185585,8.319389,Yayu,Ethiopia,Coffeearabica
+2070,36.0134808,8.3144593,Yayu,Ethiopia,Coffeearabica
+2071,35.9813101,8.3347462,Yayu,Ethiopia,Coffeearabica
+2072,35.9707056,8.3423484,Yayu,Ethiopia,Coffeearabica
+2073,35.9596761,8.3462067,Yayu,Ethiopia,Coffeearabica
+2074,35.9315598,8.3680997,Yayu,Ethiopia,Coffeearabica
+2075,36.003548,8.3974604,Yayu,Ethiopia,Coffeearabica
+2076,35.9885104,8.3298696,Yayu,Ethiopia,Coffeearabica
+2077,35.994975,8.3260559,Yayu,Ethiopia,Coffeearabica
+2078,35.99962,8.3221795,Yayu,Ethiopia,Coffeearabica
+2079,35.9980547,8.3175533,Yayu,Ethiopia,Coffeearabica
+2080,36.0040236,8.3147056,Yayu,Ethiopia,Coffeearabica
+2081,36.0108601,8.311579,Yayu,Ethiopia,Coffeearabica
+2082,36.0155314,8.3089278,Yayu,Ethiopia,Coffeearabica
+2083,36.0178568,8.3044503,Yayu,Ethiopia,Coffeearabica
+2084,36.0258807,8.3028149,Yayu,Ethiopia,Coffeearabica
+2085,36.0285009,8.3001443,Yayu,Ethiopia,Coffeearabica
+2086,36.034806,8.3004108,Yayu,Ethiopia,Coffeearabica
+2087,36.0126371,8.318773,Yayu,Ethiopia,Coffeearabica
+2088,36.0140959,8.3205355,Yayu,Ethiopia,Coffeearabica
+2089,36.0121174,8.3215577,Yayu,Ethiopia,Coffeearabica
+2090,36.0121326,8.3237744,Yayu,Ethiopia,Coffeearabica
+2091,36.0109673,8.3260853,Yayu,Ethiopia,Coffeearabica
+2092,36.0092121,8.3268394,Yayu,Ethiopia,Coffeearabica
+2093,36.0069424,8.3268044,Yayu,Ethiopia,Coffeearabica
+2094,36.0051186,8.3225271,Yayu,Ethiopia,Coffeearabica
+2095,36.0054443,8.319735,Yayu,Ethiopia,Coffeearabica
+2096,36.006612,8.3159872,Yayu,Ethiopia,Coffeearabica
+2097,35.8041607,8.3473,Yayu,Ethiopia,Coffeearabica
+2098,36.0371001,8.3636962,Yayu,Ethiopia,Coffeearabica
+2099,36.0298818,8.371769,Yayu,Ethiopia,Coffeearabica
+2100,36.0277789,8.3758053,Yayu,Ethiopia,Coffeearabica
+2101,36.0161828,8.3782051,Yayu,Ethiopia,Coffeearabica
+2102,36.0066416,8.3778649,Yayu,Ethiopia,Coffeearabica
+2103,35.9664828,8.3812725,Yayu,Ethiopia,Coffeearabica
+2104,35.9416939,8.3746062,Yayu,Ethiopia,Coffeearabica
+2105,36.0370122,8.3638736,Yayu,Ethiopia,Coffeearabica
+2106,36.0321175,8.3694401,Yayu,Ethiopia,Coffeearabica
+2107,36.0295287,8.3722071,Yayu,Ethiopia,Coffeearabica
+2108,36.0258509,8.3766533,Yayu,Ethiopia,Coffeearabica
+2109,36.0213653,8.3789626,Yayu,Ethiopia,Coffeearabica
+2110,36.0121306,8.3766197,Yayu,Ethiopia,Coffeearabica
+2111,36.0069643,8.3777815,Yayu,Ethiopia,Coffeearabica
+2112,35.9742268,8.3827879,Yayu,Ethiopia,Coffeearabica
+2113,35.9553314,8.3794942,Yayu,Ethiopia,Coffeearabica
+2114,35.9413344,8.3750075,Yayu,Ethiopia,Coffeearabica
+2115,35.935438,8.3736057,Yayu,Ethiopia,Coffeearabica
+2116,35.9969871,8.3840161,Yayu,Ethiopia,Coffeearabica
+2117,35.9816861,8.3883073,Yayu,Ethiopia,Coffeearabica
+2118,35.7980175,8.3509198,Yayu,Ethiopia,Coffeearabica
+2119,35.8017324,8.3621257,Yayu,Ethiopia,Coffeearabica
+2120,35.7994884,8.372149,Yayu,Ethiopia,Coffeearabica
+2121,35.7996261,8.369707,Yayu,Ethiopia,Coffeearabica
+2122,35.8019959,8.368147,Yayu,Ethiopia,Coffeearabica
+2123,35.8017909,8.3637896,Yayu,Ethiopia,Coffeearabica
+2124,35.7937981,8.3520169,Yayu,Ethiopia,Coffeearabica
+2125,35.7944763,8.3517905,Yayu,Ethiopia,Coffeearabica
+2126,35.7963817,8.3510701,Yayu,Ethiopia,Coffeearabica
+2127,35.8052107,8.3480834,Yayu,Ethiopia,Coffeearabica
+2128,35.8085134,8.3464316,Yayu,Ethiopia,Coffeearabica
+2129,35.8329076,8.3439726,Yayu,Ethiopia,Coffeearabica
+2130,35.8325095,8.3412079,Yayu,Ethiopia,Coffeearabica
+2131,35.8327113,8.3403308,Yayu,Ethiopia,Coffeearabica
+2132,35.8333966,8.339523,Yayu,Ethiopia,Coffeearabica
+2133,35.8325019,8.3431652,Yayu,Ethiopia,Coffeearabica
+2134,35.7901934,8.3350026,Yayu,Ethiopia,Coffeearabica
+2135,35.7851693,8.3323685,Yayu,Ethiopia,Coffeearabica
+2136,35.7996071,8.3541061,Yayu,Ethiopia,Coffeearabica
+2137,35.7933147,8.3389351,Yayu,Ethiopia,Coffeearabica
+2138,35.7932989,8.3346654,Yayu,Ethiopia,Coffeearabica
+2139,35.7876865,8.3368559,Yayu,Ethiopia,Coffeearabica
+2140,35.7982946,8.3506366,Yayu,Ethiopia,Coffeearabica
+2141,35.8021251,8.3607426,Yayu,Ethiopia,Coffeearabica
+2142,35.7982837,8.3775054,Yayu,Ethiopia,Coffeearabica
+2143,35.7989605,8.3728785,Yayu,Ethiopia,Coffeearabica
+2144,35.8001024,8.3694891,Yayu,Ethiopia,Coffeearabica
+2145,35.7937341,8.3524665,Yayu,Ethiopia,Coffeearabica
+2146,35.792066,8.3525166,Yayu,Ethiopia,Coffeearabica
+2147,35.7894501,8.354014,Yayu,Ethiopia,Coffeearabica
+2148,35.7920868,8.3564384,Yayu,Ethiopia,Coffeearabica
+2149,35.7943741,8.3572337,Yayu,Ethiopia,Coffeearabica
+2150,35.7942039,8.3526359,Yayu,Ethiopia,Coffeearabica
+2151,35.7968154,8.3523124,Yayu,Ethiopia,Coffeearabica
+2152,35.8322012,8.3437482,Yayu,Ethiopia,Coffeearabica
+2153,35.7932827,8.3342211,Yayu,Ethiopia,Coffeearabica
+2154,35.791888,8.300958,Yayu,Ethiopia,Coffeearabica
+2155,35.7929414,8.2984662,Yayu,Ethiopia,Coffeearabica
+2156,35.799667,8.2999872,Yayu,Ethiopia,Coffeearabica
+2157,35.8014216,8.3016565,Yayu,Ethiopia,Coffeearabica
+2158,35.8027088,8.3024531,Yayu,Ethiopia,Coffeearabica
+2159,35.8043462,8.3006371,Yayu,Ethiopia,Coffeearabica
+2160,35.8071614,8.3016843,Yayu,Ethiopia,Coffeearabica
+2161,35.8084485,8.3005605,Yayu,Ethiopia,Coffeearabica
+2162,35.790754,8.3018693,Yayu,Ethiopia,Coffeearabica
+2163,35.7912129,8.3026145,Yayu,Ethiopia,Coffeearabica
+2164,35.7914024,8.3034083,Yayu,Ethiopia,Coffeearabica
+2165,35.7914093,8.3038888,Yayu,Ethiopia,Coffeearabica
+2166,35.7924922,8.3042022,Yayu,Ethiopia,Coffeearabica
+2167,35.7962682,8.3087091,Yayu,Ethiopia,Coffeearabica
+2168,35.7972216,8.3130808,Yayu,Ethiopia,Coffeearabica
+2169,35.7997825,8.3169068,Yayu,Ethiopia,Coffeearabica
+2170,35.7998471,8.3164645,Yayu,Ethiopia,Coffeearabica
+2171,35.8004805,8.3222872,Yayu,Ethiopia,Coffeearabica
+2172,35.8025182,8.3277063,Yayu,Ethiopia,Coffeearabica
+2173,35.8024045,8.3313122,Yayu,Ethiopia,Coffeearabica
+2174,35.7961355,8.3092527,Yayu,Ethiopia,Coffeearabica
+2175,35.8005567,8.3221854,Yayu,Ethiopia,Coffeearabica
+2176,35.8011227,8.324182,Yayu,Ethiopia,Coffeearabica
+2177,35.7890311,8.3021336,Yayu,Ethiopia,Coffeearabica
+2178,35.7903291,8.3036013,Yayu,Ethiopia,Coffeearabica
+2179,35.7903698,8.3063774,Yayu,Ethiopia,Coffeearabica
+2180,35.7885305,8.3053072,Yayu,Ethiopia,Coffeearabica
+2181,35.7877054,8.3015567,Yayu,Ethiopia,Coffeearabica
+2182,35.7844219,8.3004484,Yayu,Ethiopia,Coffeearabica
+2183,35.7859308,8.2996802,Yayu,Ethiopia,Coffeearabica
+2184,35.7879249,8.2997973,Yayu,Ethiopia,Coffeearabica
+2185,35.787263,8.2982296,Yayu,Ethiopia,Coffeearabica
+2186,35.7867546,8.2958689,Yayu,Ethiopia,Coffeearabica
+2187,35.787132,8.2929233,Yayu,Ethiopia,Coffeearabica
+2188,35.7859278,8.290506,Yayu,Ethiopia,Coffeearabica
+2189,35.7848388,8.2878635,Yayu,Ethiopia,Coffeearabica
+2190,35.7891832,8.2929357,Yayu,Ethiopia,Coffeearabica
+2191,35.7902434,8.2912204,Yayu,Ethiopia,Coffeearabica
+2192,35.7900517,8.2960421,Yayu,Ethiopia,Coffeearabica
+2193,35.7908866,8.2990282,Yayu,Ethiopia,Coffeearabica
+2194,35.7918974,8.3009763,Yayu,Ethiopia,Coffeearabica
+2195,35.843209,8.3170493,Yayu,Ethiopia,Coffeearabica
+2196,35.8423187,8.3169637,Yayu,Ethiopia,Coffeearabica
+2197,35.8414295,8.3180855,Yayu,Ethiopia,Coffeearabica
+2198,35.8292188,8.3310267,Yayu,Ethiopia,Coffeearabica
+2199,35.8290534,8.3304981,Yayu,Ethiopia,Coffeearabica
+2200,35.8404425,8.3196825,Yayu,Ethiopia,Coffeearabica
+2201,35.8386276,8.3186253,Yayu,Ethiopia,Coffeearabica
+2202,35.8365465,8.319058,Yayu,Ethiopia,Coffeearabica
+2203,35.8365677,8.3202065,Yayu,Ethiopia,Coffeearabica
+2204,35.8376596,8.3212409,Yayu,Ethiopia,Coffeearabica
+2205,35.8357346,8.3222947,Yayu,Ethiopia,Coffeearabica
+2206,35.834107,8.3234392,Yayu,Ethiopia,Coffeearabica
+2207,35.8342245,8.325506,Yayu,Ethiopia,Coffeearabica
+2208,35.8314537,8.3281219,Yayu,Ethiopia,Coffeearabica
+2209,35.8284872,8.3306503,Yayu,Ethiopia,Coffeearabica
+2210,35.8268832,8.3330475,Yayu,Ethiopia,Coffeearabica
+2211,35.8222723,8.3372165,Yayu,Ethiopia,Coffeearabica
+2212,35.8214017,8.3370002,Yayu,Ethiopia,Coffeearabica
+2213,35.8324184,8.3232697,Yayu,Ethiopia,Coffeearabica
+2214,35.8296523,8.3220501,Yayu,Ethiopia,Coffeearabica
+2215,35.8301139,8.3245108,Yayu,Ethiopia,Coffeearabica
+2216,35.8307826,8.3262181,Yayu,Ethiopia,Coffeearabica
+2217,35.8305702,8.327335,Yayu,Ethiopia,Coffeearabica
+2218,35.8280331,8.3264403,Yayu,Ethiopia,Coffeearabica
+2219,35.8258212,8.3248048,Yayu,Ethiopia,Coffeearabica
+2220,35.8246975,8.3258566,Yayu,Ethiopia,Coffeearabica
+2221,35.8235629,8.3256395,Yayu,Ethiopia,Coffeearabica
+2222,35.8230267,8.3272607,Yayu,Ethiopia,Coffeearabica
+2223,35.8254366,8.329404,Yayu,Ethiopia,Coffeearabica
+2224,35.8249823,8.3311395,Yayu,Ethiopia,Coffeearabica
+2225,35.8259255,8.3319937,Yayu,Ethiopia,Coffeearabica
+2226,35.8267158,8.3320875,Yayu,Ethiopia,Coffeearabica
+2227,35.826742,8.3313015,Yayu,Ethiopia,Coffeearabica
+2228,35.8274339,8.3312634,Yayu,Ethiopia,Coffeearabica
+2229,35.8274538,8.3298963,Yayu,Ethiopia,Coffeearabica
+2230,35.8457674,8.361381,Yayu,Ethiopia,Coffeearabica
+2231,35.844231,8.3608802,Yayu,Ethiopia,Coffeearabica
+2232,35.8449176,8.3596801,Yayu,Ethiopia,Coffeearabica
+2233,35.8398343,8.3542443,Yayu,Ethiopia,Coffeearabica
+2234,35.8438828,8.3570181,Yayu,Ethiopia,Coffeearabica
+2235,35.8489413,8.3554593,Yayu,Ethiopia,Coffeearabica
+2236,35.8511948,8.3541597,Yayu,Ethiopia,Coffeearabica
+2237,35.8539384,8.3535187,Yayu,Ethiopia,Coffeearabica
+2238,35.8489906,8.3521024,Yayu,Ethiopia,Coffeearabica
+2239,35.8414944,8.3496452,Yayu,Ethiopia,Coffeearabica
+2240,35.8355331,8.3443001,Yayu,Ethiopia,Coffeearabica
+2241,35.8384118,8.3439117,Yayu,Ethiopia,Coffeearabica
+2242,35.842982,8.3452972,Yayu,Ethiopia,Coffeearabica
+2243,35.8459097,8.3621366,Yayu,Ethiopia,Coffeearabica
+2244,35.8461463,8.3633345,Yayu,Ethiopia,Coffeearabica
+2245,35.8459026,8.3659201,Yayu,Ethiopia,Coffeearabica
+2246,35.8452281,8.3697938,Yayu,Ethiopia,Coffeearabica
+2247,35.8460441,8.3709764,Yayu,Ethiopia,Coffeearabica
+2248,35.8463455,8.3732466,Yayu,Ethiopia,Coffeearabica
+2249,35.8462383,8.3745518,Yayu,Ethiopia,Coffeearabica
+2250,35.8473329,8.3745444,Yayu,Ethiopia,Coffeearabica
+2251,35.8479156,8.3741036,Yayu,Ethiopia,Coffeearabica
+2252,35.8485238,8.3751798,Yayu,Ethiopia,Coffeearabica
+2253,35.8483466,8.3760199,Yayu,Ethiopia,Coffeearabica
+2254,35.849869,8.3757547,Yayu,Ethiopia,Coffeearabica
+2255,35.8511924,8.3763225,Yayu,Ethiopia,Coffeearabica
+2256,35.8515483,8.3773784,Yayu,Ethiopia,Coffeearabica
+2257,35.8519512,8.3779447,Yayu,Ethiopia,Coffeearabica
+2258,35.8512559,8.3742835,Yayu,Ethiopia,Coffeearabica
+2259,35.8524115,8.3735584,Yayu,Ethiopia,Coffeearabica
+2260,35.8534476,8.3736966,Yayu,Ethiopia,Coffeearabica
+2261,35.8509501,8.3730462,Yayu,Ethiopia,Coffeearabica
+2262,35.8488744,8.3724095,Yayu,Ethiopia,Coffeearabica
+2263,35.9720432,8.3819955,Yayu,Ethiopia,Coffeearabica
+2264,35.9972801,8.3882636,Yayu,Ethiopia,Coffeearabica
+2265,35.9977367,8.389194,Yayu,Ethiopia,Coffeearabica
+2266,35.948703,8.3728301,Yayu,Ethiopia,Coffeearabica
+2267,35.9566418,8.3750823,Yayu,Ethiopia,Coffeearabica
+2268,35.9718348,8.3809174,Yayu,Ethiopia,Coffeearabica
+2269,35.9782145,8.3828047,Yayu,Ethiopia,Coffeearabica
+2270,35.9857208,8.3870468,Yayu,Ethiopia,Coffeearabica
+2271,35.9931986,8.3836157,Yayu,Ethiopia,Coffeearabica
+2272,35.9923469,8.3812587,Yayu,Ethiopia,Coffeearabica
+2273,35.9974154,8.388235,Yayu,Ethiopia,Coffeearabica
+2274,35.9986208,8.3890414,Yayu,Ethiopia,Coffeearabica
+2275,35.9586,8.2879,Yayu,Ethiopia,Coffeearabica
+2276,35.9455,8.2801,Yayu,Ethiopia,Coffeearabica
+2277,35.9247,8.3071,Yayu,Ethiopia,Coffeearabica
+2278,35.9357,8.2859,Yayu,Ethiopia,Coffeearabica
+2279,35.927,8.3169,Yayu,Ethiopia,Coffeearabica
+2280,35.9752,8.316,Yayu,Ethiopia,Coffeearabica
+2281,36.0434,8.3004,Yayu,Ethiopia,Coffeearabica
+2282,35.9214,8.3391,Yayu,Ethiopia,Coffeearabica
+2283,35.9467,8.3351,Yayu,Ethiopia,Coffeearabica
+2284,35.902,8.3372,Yayu,Ethiopia,Coffeearabica
+2285,35.9561,8.3898,Yayu,Ethiopia,Coffeearabica
+2286,35.9306,8.389,Yayu,Ethiopia,Coffeearabica
+2287,35.9131,8.381,Yayu,Ethiopia,Coffeearabica
+2288,35.9236,8.3449,Yayu,Ethiopia,Coffeearabica
+2289,35.8785,8.295,Yayu,Ethiopia,Coffeearabica
+2290,35.8939,8.3037,Yayu,Ethiopia,Coffeearabica
+2291,35.8633,8.3166,Yayu,Ethiopia,Coffeearabica
+2292,35.8646,8.237,Yayu,Ethiopia,Coffeearabica
+2293,35.8716,8.2496,Yayu,Ethiopia,Coffeearabica
+2294,35.8557,8.2409,Yayu,Ethiopia,Coffeearabica
+2295,35.8534,8.2517,Yayu,Ethiopia,Coffeearabica
+2296,35.8488,8.2701,Yayu,Ethiopia,Coffeearabica
+2297,35.856,8.2665,Yayu,Ethiopia,Coffeearabica
+2298,35.8245,8.2687,Yayu,Ethiopia,Coffeearabica
+2299,35.8281,8.2698,Yayu,Ethiopia,Coffeearabica
+2300,35.8292,8.2692,Yayu,Ethiopia,Coffeearabica
+2301,35.8314,8.2656,Yayu,Ethiopia,Coffeearabica
+2302,35.9836,8.3319,Yayu,Ethiopia,Coffeearabica
+2303,35.9772,8.3404,Yayu,Ethiopia,Coffeearabica
+2304,35.955,8.3496,Yayu,Ethiopia,Coffeearabica
+2305,35.964,8.3454,Yayu,Ethiopia,Coffeearabica
+2306,35.9784,8.3421,Yayu,Ethiopia,Coffeearabica
+2307,36.0429,8.3115,Yayu,Ethiopia,Coffeearabica
+2308,36.0353,8.3193,Yayu,Ethiopia,Coffeearabica
+2309,36.0242,8.3262,Yayu,Ethiopia,Coffeearabica
+2310,36.0182,8.3344,Yayu,Ethiopia,Coffeearabica
+2311,36.0046,8.3414,Yayu,Ethiopia,Coffeearabica
+2312,35.9949,8.3497,Yayu,Ethiopia,Coffeearabica
+2313,36.0059,8.352,Yayu,Ethiopia,Coffeearabica
+2314,35.8558,8.263,Yayu,Ethiopia,Coffeearabica
+2315,35.8657,8.2708,Yayu,Ethiopia,Coffeearabica
+2316,35.9298,8.3671,Yayu,Ethiopia,Coffeearabica
+2317,35.9215,8.3684,Yayu,Ethiopia,Coffeearabica
+2318,36.43277778,7.783888889,Yayu,Ethiopia,Coffeearabica
+2319,36.4325,7.782777778,Yayu,Ethiopia,Coffeearabica
+2320,36.43138889,7.782222222,Yayu,Ethiopia,Coffeearabica
+2321,36.43083333,7.781944444,Yayu,Ethiopia,Coffeearabica
+2322,36.43055556,7.781666667,Yayu,Ethiopia,Coffeearabica
+2323,36.43,7.781111111,Yayu,Ethiopia,Coffeearabica
+2324,36.43027778,7.780833333,Yayu,Ethiopia,Coffeearabica
+2325,36.59638889,7.847222222,Yayu,Ethiopia,Coffeearabica
+2326,36.5975,7.846666667,Yayu,Ethiopia,Coffeearabica
+2327,36.59472222,7.845277778,Yayu,Ethiopia,Coffeearabica
+2328,36.59444444,7.845277778,Yayu,Ethiopia,Coffeearabica
+2329,36.59444444,7.845,Yayu,Ethiopia,Coffeearabica
+2330,36.59388889,7.845,Yayu,Ethiopia,Coffeearabica
+2331,36.59361111,7.845833333,Yayu,Ethiopia,Coffeearabica
+2332,36.595,7.847222222,Yayu,Ethiopia,Coffeearabica
+2333,35.8459097,8.3621366,Yayu,Ethiopia,Coffeearabica
+2334,35.8461463,8.3633345,Yayu,Ethiopia,Coffeearabica
+2335,35.8459026,8.3659201,Yayu,Ethiopia,Coffeearabica
+2336,35.8452281,8.3697938,Yayu,Ethiopia,Coffeearabica
+2337,35.8460441,8.3709764,Yayu,Ethiopia,Coffeearabica
+2338,35.8463455,8.3732466,Yayu,Ethiopia,Coffeearabica
+2339,35.8462383,8.3745518,Yayu,Ethiopia,Coffeearabica
+2340,35.8473329,8.3745444,Yayu,Ethiopia,Coffeearabica
+2341,35.8479156,8.3741036,Yayu,Ethiopia,Coffeearabica
+2342,35.8485238,8.3751798,Yayu,Ethiopia,Coffeearabica
+2343,35.8483466,8.3760199,Yayu,Ethiopia,Coffeearabica
+2344,35.849869,8.3757547,Yayu,Ethiopia,Coffeearabica
+2345,35.8511924,8.3763225,Yayu,Ethiopia,Coffeearabica
+2346,35.8515483,8.3773784,Yayu,Ethiopia,Coffeearabica
+2347,35.8519512,8.3779447,Yayu,Ethiopia,Coffeearabica
+2348,35.8512559,8.3742835,Yayu,Ethiopia,Coffeearabica
+2349,35.8524115,8.3735584,Yayu,Ethiopia,Coffeearabica
+2350,35.8534476,8.3736966,Yayu,Ethiopia,Coffeearabica
+2351,35.8509501,8.3730462,Yayu,Ethiopia,Coffeearabica
+2352,35.8488744,8.3724095,Yayu,Ethiopia,Coffeearabica
+2353,35.9720432,8.3819955,Yayu,Ethiopia,Coffeearabica
+2354,35.9972801,8.3882636,Yayu,Ethiopia,Coffeearabica
+2355,35.9977367,8.389194,Yayu,Ethiopia,Coffeearabica
+2356,35.948703,8.3728301,Yayu,Ethiopia,Coffeearabica
+2357,35.9566418,8.3750823,Yayu,Ethiopia,Coffeearabica
+2358,35.9718348,8.3809174,Yayu,Ethiopia,Coffeearabica
+2359,35.9782145,8.3828047,Yayu,Ethiopia,Coffeearabica
+2360,35.9857208,8.3870468,Yayu,Ethiopia,Coffeearabica
+2361,35.9931986,8.3836157,Yayu,Ethiopia,Coffeearabica
+2362,35.9923469,8.3812587,Yayu,Ethiopia,Coffeearabica
+2363,35.9974154,8.388235,Yayu,Ethiopia,Coffeearabica
+2364,35.8457674,8.361381,Yayu,Ethiopia,Coffeearabica
+2365,35.844231,8.3608802,Yayu,Ethiopia,Coffeearabica
+2366,35.8449176,8.3596801,Yayu,Ethiopia,Coffeearabica
+2367,35.8398343,8.3542443,Yayu,Ethiopia,Coffeearabica
+2368,35.8438828,8.3570181,Yayu,Ethiopia,Coffeearabica
+2369,35.8489413,8.3554593,Yayu,Ethiopia,Coffeearabica
+2370,35.8511948,8.3541597,Yayu,Ethiopia,Coffeearabica
+2371,35.8539384,8.3535187,Yayu,Ethiopia,Coffeearabica
+2372,35.8489906,8.3521024,Yayu,Ethiopia,Coffeearabica
+2373,35.8414944,8.3496452,Yayu,Ethiopia,Coffeearabica
+2374,35.8355331,8.3443001,Yayu,Ethiopia,Coffeearabica
+2375,35.8384118,8.3439117,Yayu,Ethiopia,Coffeearabica
+2376,35.842982,8.3452972,Yayu,Ethiopia,Coffeearabica
