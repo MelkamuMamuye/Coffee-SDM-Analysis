@@ -21,6 +21,10 @@ Predicted habitat suitability maps are converted into binary maps (suitable/unsu
 The variable importance plots, model evaluation results, final suitability maps, area change statistics, and niche change plots are saved for reporting and publication under each step.
 ## EUDR Comparison:
 In this step, the projected coffee suitability maps are compared with the European Union Deforestation Regulation (EUDR) compliance requirements. The analysis overlays the projected coffee suitability maps with the global forest cover map used by EUDR to identify areas that are both climatically suitable and meet deforestation-free criteria, to assess how much of the future suitable area aligns with EUDR compliance.
-
-
-
+## Remark
+## outputs uploaded to the GitHub repository
+-Projected suitability maps for five study sites, two scenarios(SSSP245 and SSP585), four time periods(2023s,2050s,2070, and 2090s)
+## processed soil data
+The final processed soil data can be provided upon request due to the large file size.
+### Coffee occurrence locations
+Coffee occurrence locations are uploaded here in shapefile format to visualize in GIS software.
